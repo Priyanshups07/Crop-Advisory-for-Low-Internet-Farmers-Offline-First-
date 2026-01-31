@@ -6,6 +6,9 @@ import GrowthStage from './components/GrowthStage';
 import SoilType from './components/SoilType';
 import SoilMoisture from './components/SoilMoisture';
 import WeatherSelection from './components/WeatherSelection';
+import SymptomSelection from './components/SymptomSelection';
+import DiagnosisResult from './components/DiagnosisResult';
+import ActionDetails from './components/ActionDetails';
 import BottomNav from './components/BottomNav';
 
 const App = () => {
@@ -15,6 +18,7 @@ const App = () => {
   const [selectedSoil, setSelectedSoil] = useState(null);
   const [selectedMoisture, setSelectedMoisture] = useState(null);
   const [selectedWeather, setSelectedWeather] = useState(null);
+  const [selectedSymptoms, setSelectedSymptoms] = useState([]);
 
   const crops = [
     { id: 'rice', name: 'Rice', image: '/images/rice.png' },
@@ -50,7 +54,27 @@ const App = () => {
 
   const handleWeatherConfirm = (weather) => {
     setSelectedWeather(weather);
-    alert(`Complete!\nCrop: ${selectedCrops[0]}\nStage: ${selectedStage}\nSoil: ${selectedSoil}\nMoisture: ${selectedMoisture}\nWeather: ${weather}`);
+    setCurrentStep(6);
+  };
+
+  const handleSymptomConfirm = (symptoms) => {
+    setSelectedSymptoms(symptoms);
+    setCurrentStep(7);
+  };
+
+  const handleDiagnosisConfirm = () => {
+    setCurrentStep(8);
+  };
+
+  const handleDone = () => {
+    alert("Onboarding complete! Your agricultural profile has been saved.");
+    setCurrentStep(1);
+    setSelectedCrops([]);
+    setSelectedStage(null);
+    setSelectedSoil(null);
+    setSelectedMoisture(null);
+    setSelectedWeather(null);
+    setSelectedSymptoms([]);
   };
 
   const handleBack = () => {
@@ -58,6 +82,15 @@ const App = () => {
   };
 
   const renderContent = () => {
+    if (currentStep === 8) {
+      return <ActionDetails onBack={handleBack} onDone={handleDone} />;
+    }
+    if (currentStep === 7) {
+      return <DiagnosisResult crop={selectedCrops[0]} symptoms={selectedSymptoms} onBack={handleBack} onConfirm={handleDiagnosisConfirm} />;
+    }
+    if (currentStep === 6) {
+      return <SymptomSelection crop={selectedCrops[0]} onBack={handleBack} onConfirm={handleSymptomConfirm} />;
+    }
     if (currentStep === 5) {
       return <WeatherSelection onConfirm={handleWeatherConfirm} />;
     }
