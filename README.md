@@ -19,8 +19,43 @@ Tech Stack
 Frontend: React, Vite, Dexie (IndexedDB), Axios, PWA
 Backend: Express, MongoDB, Mongoose
 
+Installation & Running
+
+### Frontend
+1. Navigate to the project root directory
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open your browser and navigate to the URL shown in the terminal (typically `http://localhost:5173`)
+
+### Backend
+1. Navigate to the backend directory:
+   ```bash
+   cd backend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the server:
+   ```bash
+    node server.js
+   ```
+4. The backend server will run on `http://localhost:5000` (or the configured port)
+
+### Running Both Together
+For development, you can run the frontend and backend in separate terminals simultaneously:
+- Terminal 1: From project root, run `npm run dev` (Frontend)
+- Terminal 2: From `backend/` directory, run `node server.js` (Backend)
+
 Usage
 Select your language.
 Tap through each step (crop, problem, soil, stage).
 Receive advice (text + speech).
 Data is saved locally and synced when online.
+
