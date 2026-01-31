@@ -92,7 +92,7 @@ const App = () => {
       return <SymptomSelection crop={selectedCrops[0]} onBack={handleBack} onConfirm={handleSymptomConfirm} />;
     }
     if (currentStep === 5) {
-      return <WeatherSelection onConfirm={handleWeatherConfirm} />;
+      return <WeatherSelection onBack={handleBack} onConfirm={handleWeatherConfirm} />;
     }
     if (currentStep === 4) {
       return <SoilMoisture onBack={handleBack} onConfirm={handleMoistureConfirm} />;

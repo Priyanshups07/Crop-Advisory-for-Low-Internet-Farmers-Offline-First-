@@ -37,42 +37,36 @@ const SoilMoisture = ({ onBack, onConfirm }) => {
     ];
 
     return (
-        <div className="app-container" style={{ paddingBottom: '90px' }}>
+        <div className="app-container">
             {/* Top Navigation */}
             <div className="top-nav">
                 <button className="back-btn" onClick={onBack}>
                     <ArrowLeft size={24} />
                 </button>
-                <span className="page-title" style={{ fontSize: '20px', fontWeight: '700' }}>Soil Moisture</span>
                 <div className="offline-banner">
+                    <CloudOff size={16} />
                     <span>OFFLINE-READY</span>
                 </div>
             </div>
 
-
-
             <div className="header-section">
-                <h1 style={{ fontSize: '36px' }}>How wet is your soil?</h1>
-                <p className="subtitle">Select the closest match for your field.</p>
+                <h1>Soil Moisture</h1>
+                <p className="subtitle">How wet is the field today?</p>
             </div>
 
-            <div className="crop-grid" style={{ marginTop: '32px' }}>
+            <div className="crop-grid">
                 {moistureLevels.map((level) => (
                     <div
                         key={level.id}
                         className={`crop-card ${selectedMoisture === level.id ? 'selected' : ''}`}
                         onClick={() => setSelectedMoisture(level.id)}
-                        style={{ padding: '12px', border: selectedMoisture === level.id ? '3px solid #00E676' : '3px solid transparent' }}
                     >
                         <div className="image-wrapper">
                             <img src={level.image} alt={level.name} />
-                            <div className="selection-indicator" style={{ backgroundColor: selectedMoisture === level.id ? '#00E676' : 'white', display: 'flex' }}>
-                                <CheckCircle2 size={20} className="check-icon" style={{ color: selectedMoisture === level.id ? 'white' : '#cbd5e0' }} />
-                            </div>
                         </div>
                         <div className="card-info" style={{ flexDirection: 'column', alignItems: 'flex-start', gap: '4px' }}>
-                            <span className="name" style={{ fontSize: '18px' }}>{level.name}</span>
-                            <span className="range" style={{ color: '#a0aec0', fontSize: '14px', fontWeight: '600' }}>{level.range}</span>
+                            <span className="name">{level.name}</span>
+                            <span className="subtitle" style={{ fontSize: '12px' }}>{level.range}</span>
                         </div>
                     </div>
                 ))}

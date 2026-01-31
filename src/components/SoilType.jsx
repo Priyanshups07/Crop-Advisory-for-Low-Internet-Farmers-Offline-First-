@@ -34,6 +34,9 @@ const SoilType = ({ onBack, onConfirm }) => {
         <div className="app-container">
             {/* Top Navigation */}
             <div className="top-nav">
+                <button className="back-btn" onClick={onBack}>
+                    <ArrowLeft size={24} />
+                </button>
                 <div className="offline-banner">
                     <CloudOff size={16} />
                     <span>OFFLINE-READY</span>
@@ -41,9 +44,6 @@ const SoilType = ({ onBack, onConfirm }) => {
             </div>
 
             <div className="header-section">
-                <button className="back-btn" onClick={onBack}>
-                    <ArrowLeft size={24} />
-                </button>
                 <h1>Soil Type</h1>
                 <p className="subtitle">Select your land's soil</p>
             </div>
@@ -57,13 +57,9 @@ const SoilType = ({ onBack, onConfirm }) => {
                     >
                         <div className="image-wrapper">
                             <img src={soil.image} alt={soil.name} />
-                            <div className="selection-indicator">
-                                <CheckCircle2 size={20} className="check-icon" />
-                            </div>
                         </div>
                         <div className="card-info">
                             <span className="name">{soil.name}</span>
-                            <CheckCircle2 size={18} className="status-icon" />
                         </div>
                     </div>
                 ))}

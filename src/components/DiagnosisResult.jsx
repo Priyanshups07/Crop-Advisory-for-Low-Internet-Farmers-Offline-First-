@@ -41,51 +41,47 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
 
     return (
         <div className="app-container diagnosis-result-step" style={{ padding: 0 }}>
-            {/* Offline Banner Overlap */}
-            <div style={{ position: 'absolute', top: '16px', left: '50%', transform: 'translateX(-50%)', zindex: 10 }}>
-                <div className="offline-banner" style={{ background: '#E8F5E9', color: '#2E7D32', width: 'fit-content' }}>
-                    <ShieldCheck size={16} />
-                    <span>OFFLINE-READY</span>
-                </div>
+            {/* Header with Back Button */}
+            <div className="top-nav" style={{ position: 'absolute', top: '24px', left: '24px', right: '24px', zIndex: 10, justifyContent: 'flex-start' }}>
+                <button className="back-btn" onClick={onBack} style={{ background: 'white', borderRadius: '50%', padding: '8px', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
+                    <ArrowLeft size={24} color="var(--primary-text)" />
+                </button>
             </div>
 
             <div className="result-hero" style={{ height: '320px', position: 'relative' }}>
                 <img src={data.image} alt={data.disease} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-                <button className="back-btn-overlay" onClick={onBack} style={{ position: 'absolute', top: '24px', left: '24px', background: 'white', borderRadius: '50%', padding: '8px', border: 'none', boxShadow: '0 4px 6px rgba(0,0,0,0.1)' }}>
-                    <ArrowLeft size={24} color="#1a202c" />
-                </button>
             </div>
 
             <div style={{ padding: '24px', position: 'relative', marginTop: '-40px', background: 'var(--bg-color)', borderTopLeftRadius: '40px', borderTopRightRadius: '40px' }}>
-                <div className="result-header-card" style={{ background: 'white', padding: '24px', borderRadius: '24px', boxShadow: '0 10px 15px -3px rgba(0,0,0,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                    <div>
-                        <span style={{ fontSize: '14px', fontWeight: '800', color: '#00E676', letterSpacing: '1px' }}>DETECTED RESULT</span>
-                        <h1 style={{ fontSize: '32px', fontWeight: '900', color: '#1a202c', margin: '4px 0 0 0' }}>{data.disease}</h1>
+                <div className="result-header-card" style={{ background: 'white', padding: '24px', borderRadius: '24px', boxShadow: 'var(--card-shadow)', display: 'flex', alignItems: 'center', justifyContent: 'space-between', border: '1px solid var(--glass-border)' }}>
+                    <div style={{ flex: 1 }}>
+                        <span style={{ fontSize: '12px', fontWeight: '800', color: '#00E676', letterSpacing: '1px', textTransform: 'uppercase' }}>Detected Result</span>
+                        <h1 style={{ fontSize: '28px', fontWeight: '900', color: 'var(--primary-text)', margin: '4px 0 0 0' }}>{data.disease}</h1>
                     </div>
-                    <button style={{ backgroundColor: '#00E676', border: 'none', borderRadius: '50%', width: '56px', height: '56px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'white', boxShadow: '0 4px 12px rgba(0,230,118,0.3)' }}>
-                        <Volume2 size={24} fill="currentColor" />
+                    <button style={{ backgroundColor: 'var(--button-active)', border: 'none', borderRadius: '50%', width: '48px', height: '48px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'white', boxShadow: '0 4px 12px rgba(26,57,36,0.2)' }}>
+                        <Volume2 size={24} />
                     </button>
                 </div>
 
                 <div className="treatment-section" style={{ marginTop: '32px' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '20px' }}>
-                        <div style={{ background: '#00E676', width: '32px', height: '32px', borderRadius: '8px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                            <CheckCircle2 size={18} color="white" />
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '16px' }}>
+                        <div style={{ background: 'var(--accent-green)', width: '28px', height: '28px', borderRadius: '8px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                            <CheckCircle2 size={16} color="var(--accent-green-text)" />
                         </div>
-                        <h2 style={{ fontSize: '24px', fontWeight: '800', color: '#1a202c' }}>Treatment</h2>
+                        <h2 style={{ fontSize: '20px', fontWeight: '800', color: 'var(--primary-text)' }}>Treatment Advice</h2>
                     </div>
 
-                    <div className="treatment-overview" style={{ background: 'white', padding: '24px', borderRadius: '24px', boxShadow: '0 4px 6px -1px rgba(0,0,0,0.05)' }}>
-                        <h3 style={{ fontSize: '18px', fontWeight: '800', color: '#1a202c' }}>{data.treatment}</h3>
-                        <p style={{ color: '#718096', fontWeight: '600', fontSize: '14px', marginTop: '4px' }}>{data.frequency}</p>
+                    <div className="treatment-overview" style={{ background: 'white', padding: '24px', borderRadius: '24px', boxShadow: 'var(--card-shadow)', border: '1px solid var(--glass-border)' }}>
+                        <h3 style={{ fontSize: '18px', fontWeight: '800', color: 'var(--primary-text)' }}>{data.treatment}</h3>
+                        <p style={{ color: 'var(--secondary-text)', fontWeight: '600', fontSize: '14px', marginTop: '4px' }}>{data.frequency}</p>
 
                         <div className="steps-row" style={{ display: 'flex', gap: '16px', marginTop: '20px' }}>
                             {data.steps.map(step => (
                                 <div key={step.id} style={{ flex: 1 }}>
-                                    <div style={{ position: 'relative', height: '100px', borderRadius: '16px', overflow: 'hidden' }}>
+                                    <div style={{ position: 'relative', height: '100px', borderRadius: '16px', overflow: 'hidden', boxShadow: '0 4px 12px rgba(0,0,0,0.05)' }}>
                                         <img src={step.image} alt={step.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                                     </div>
-                                    <span style={{ fontSize: '10px', fontWeight: '800', color: '#1a202c', marginTop: '8px', display: 'block' }}>{step.id}. {step.name}</span>
+                                    <span style={{ fontSize: '11px', fontWeight: '800', color: 'var(--primary-text)', marginTop: '8px', display: 'block', textTransform: 'uppercase' }}>{step.id}. {step.name}</span>
                                 </div>
                             ))}
                         </div>
@@ -93,7 +89,7 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
                 </div>
 
                 <div className="button-container" style={{ margin: '32px 0 16px 0' }}>
-                    <button className="confirm-btn primary" onClick={onConfirm}>
+                    <button className="confirm-btn primary" onClick={onConfirm} style={{ background: 'var(--button-active)', height: '64px' }}>
                         <CheckCircle2 size={24} style={{ marginRight: '12px' }} />
                         START TREATMENT
                     </button>
