@@ -5,6 +5,7 @@ import ConfirmButton from './components/ConfirmButton';
 import GrowthStage from './components/GrowthStage';
 import SoilType from './components/SoilType';
 import SoilMoisture from './components/SoilMoisture';
+import WeatherSelection from './components/WeatherSelection';
 import BottomNav from './components/BottomNav';
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
   const [selectedStage, setSelectedStage] = useState(null);
   const [selectedSoil, setSelectedSoil] = useState(null);
   const [selectedMoisture, setSelectedMoisture] = useState(null);
+  const [selectedWeather, setSelectedWeather] = useState(null);
 
   const crops = [
     { id: 'rice', name: 'Rice', image: '/images/rice.png' },
@@ -43,7 +45,12 @@ const App = () => {
 
   const handleMoistureConfirm = (moisture) => {
     setSelectedMoisture(moisture);
-    alert(`Onboarding Complete!\nCrop: ${selectedCrops[0]}\nStage: ${selectedStage}\nSoil: ${selectedSoil}\nMoisture: ${moisture}`);
+    setCurrentStep(5);
+  };
+
+  const handleWeatherConfirm = (weather) => {
+    setSelectedWeather(weather);
+    alert(`Complete!\nCrop: ${selectedCrops[0]}\nStage: ${selectedStage}\nSoil: ${selectedSoil}\nMoisture: ${selectedMoisture}\nWeather: ${weather}`);
   };
 
   const handleBack = () => {
@@ -51,6 +58,9 @@ const App = () => {
   };
 
   const renderContent = () => {
+    if (currentStep === 5) {
+      return <WeatherSelection onConfirm={handleWeatherConfirm} />;
+    }
     if (currentStep === 4) {
       return <SoilMoisture onBack={handleBack} onConfirm={handleMoistureConfirm} />;
     }
