@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
 import { ArrowLeft, CloudOff, CheckCircle2 } from 'lucide-react';
 
+import sandyImg from '../assets/sandy_soil.png';
+import loamImg from '../assets/loam_soil.png';
+
 const SoilType = ({ onBack, onConfirm }) => {
     const [selectedSoil, setSelectedSoil] = useState(null);
 
@@ -8,12 +11,12 @@ const SoilType = ({ onBack, onConfirm }) => {
         {
             id: 'sandy',
             name: 'Sandy',
-            image: 'https://images.unsplash.com/photo-1541624009852-6a7516801931?q=80&w=600&auto=format&fit=crop'
+            image: sandyImg
         },
         {
             id: 'loam',
             name: 'Loam',
-            image: 'https://images.unsplash.com/photo-1464226184884-fa280b87c399?q=80&w=600&auto=format&fit=crop'
+            image: loamImg
         },
         {
             id: 'clay',

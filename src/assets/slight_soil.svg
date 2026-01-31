@@ -1,0 +1,8 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <rect width="600" height="400" fill="#d2b48c"/>
+ <circle cx="100" cy="100" r="10" fill="#a0522d"/>
+ <circle cx="200" cy="300" r="15" fill="#a0522d"/>
+ <circle cx="400" cy="150" r="12" fill="#a0522d"/>
+ <circle cx="500" cy="350" r="8" fill="#a0522d"/>
+ <text x="300" y="200" font-family="Arial" font-size="40" text-anchor="middle" fill="#5c4033">Slightly Moist Soil</text>
+</svg>

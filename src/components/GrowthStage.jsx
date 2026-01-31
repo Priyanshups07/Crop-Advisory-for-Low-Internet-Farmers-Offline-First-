@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
 import { ArrowLeft, CloudOff, CheckCircle2 } from 'lucide-react';
 
+import sproutImg from '../assets/sprout_stage.png';
+import growImg from '../assets/grow_stage.png';
+import flowerImg from '../assets/flower_stage.png';
+import matureImg from '../assets/mature_stage.png';
+
 const GrowthStage = ({ onBack, onConfirm }) => {
     const [selectedStage, setSelectedStage] = useState(null);
 
@@ -8,22 +13,22 @@ const GrowthStage = ({ onBack, onConfirm }) => {
         {
             id: 'sprout',
             name: 'Sprout',
-            image: 'https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?q=80&w=600&auto=format&fit=crop'
+            image: sproutImg
         },
         {
             id: 'grow',
             name: 'Grow',
-            image: 'https://images.unsplash.com/photo-1530836361253-efad5cb2feee?q=80&w=600&auto=format&fit=crop'
+            image: growImg
         },
         {
             id: 'flower',
             name: 'Flower',
-            image: 'https://images.unsplash.com/photo-1599307767316-776533da941c?q=80&w=600&auto=format&fit=crop'
+            image: flowerImg
         },
         {
             id: 'mature',
             name: 'Mature',
-            image: 'https://images.unsplash.com/photo-1535090467336-9501f96eef89?q=80&w=600&auto=format&fit=crop'
+            image: matureImg
         },
     ];
 

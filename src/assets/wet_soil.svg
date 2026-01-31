@@ -1,0 +1,5 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <rect width="600" height="400" fill="#3e2723"/>
+ <path d="M0 350 Q 150 300 300 350 T 600 350 V 400 H 0 Z" fill="#4fc3f7" fill-opacity="0.6"/>
+ <text x="300" y="200" font-family="Arial" font-size="40" text-anchor="middle" fill="#ffffff">Wet / Muddy Soil</text>
+</svg>

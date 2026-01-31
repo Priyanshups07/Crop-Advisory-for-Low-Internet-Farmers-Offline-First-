@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
 import { ArrowLeft, CloudOff, CheckCircle2 } from 'lucide-react';
 
+import dryImg from '../assets/sandy_soil.png';
+import slightImg from '../assets/loam_soil.png';
+import optimalImg from '../assets/optimal_soil_v2.png';
+import wetImg from '../assets/wet_soil_v2.png';
+
 const SoilMoisture = ({ onBack, onConfirm }) => {
     const [selectedMoisture, setSelectedMoisture] = useState(null);
 
@@ -9,25 +14,25 @@ const SoilMoisture = ({ onBack, onConfirm }) => {
             id: 'dry',
             name: 'Dry Soil',
             range: '0% - 25%',
-            image: 'https://images.unsplash.com/photo-1504198453319-5ce911baf2ea?q=80&w=600&auto=format&fit=crop'
+            image: dryImg
         },
         {
             id: 'slight',
             name: 'Slightly Moist',
             range: '26% - 50%',
-            image: 'https://images.unsplash.com/photo-1589140417258-3f4340798be4?q=80&w=600&auto=format&fit=crop'
+            image: slightImg
         },
         {
             id: 'optimal',
             name: 'Optimal',
             range: '51% - 75%',
-            image: 'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=600&auto=format&fit=crop'
+            image: optimalImg
         },
         {
             id: 'wet',
             name: 'Wet Soil',
             range: '76% - 100%',
-            image: 'https://images.unsplash.com/photo-1605000797439-75a1500858fb?q=80&w=600&auto=format&fit=crop'
+            image: wetImg
         },
     ];
 

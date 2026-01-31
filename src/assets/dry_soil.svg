@@ -1,0 +1,6 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <rect width="600" height="400" fill="#e6cdaa"/>
+ <path d="M50 50 L150 150 M200 50 L100 200 M400 50 L300 150 M500 100 L400 300" stroke="#dcb386" stroke-width="4" fill="none"/>
+ <path d="M50 350 L150 250 M450 350 L350 200" stroke="#dcb386" stroke-width="4" fill="none"/>
+ <text x="300" y="200" font-family="Arial" font-size="40" text-anchor="middle" fill="#8b5a2b">Dry / Cracked Soil</text>
+</svg>
