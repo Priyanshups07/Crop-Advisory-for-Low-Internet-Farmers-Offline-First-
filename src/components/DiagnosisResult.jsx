@@ -56,7 +56,7 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
                 </button>
             </div>
 
-            <div style={{ padding: '24px', position: 'relative', marginTop: '-40px', background: '#f8fafc', borderTopLeftRadius: '40px', borderTopRightRadius: '40px' }}>
+            <div style={{ padding: '24px', position: 'relative', marginTop: '-40px', background: 'var(--bg-color)', borderTopLeftRadius: '40px', borderTopRightRadius: '40px' }}>
                 <div className="result-header-card" style={{ background: 'white', padding: '24px', borderRadius: '24px', boxShadow: '0 10px 15px -3px rgba(0,0,0,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                     <div>
                         <span style={{ fontSize: '14px', fontWeight: '800', color: '#00E676', letterSpacing: '1px' }}>DETECTED RESULT</span>
@@ -93,7 +93,7 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
                 </div>
 
                 <div className="button-container" style={{ margin: '32px 0 16px 0' }}>
-                    <button className="confirm-btn primary" onClick={onConfirm} style={{ backgroundColor: '#00E676', color: 'white' }}>
+                    <button className="confirm-btn primary" onClick={onConfirm}>
                         <CheckCircle2 size={24} style={{ marginRight: '12px' }} />
                         START TREATMENT
                     </button>

@@ -35,12 +35,6 @@ const GrowthStage = ({ onBack, onConfirm }) => {
                     <CloudOff size={16} />
                     <span>OFFLINE-READY</span>
                 </div>
-                <div className="progress-section">
-                    <span className="step-text">STEP 2 OF 3</span>
-                    <div className="progress-bar">
-                        <div className="progress-fill" style={{ width: '66%' }}></div>
-                    </div>
-                </div>
             </div>
 
             <div className="header-section">

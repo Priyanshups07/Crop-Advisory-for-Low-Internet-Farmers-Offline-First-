@@ -1,5 +1,5 @@
 :root {
-  --bg-color: #fcfcf7;
+  --bg-color: #F0EFEB;
   --primary-text: #1a202c;
   --secondary-text: #4a5568;
   --accent-green: #e2f9e1;
@@ -7,7 +7,10 @@
   --card-bg: #ffffff;
   --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   --button-default: #e2e8f0;
-  --button-active: #2b6cb0;
+  --button-active: #1A3924;
+  /* Dark Green */
+  --button-hover: #0d1d12;
+  /* Even Darker Green for hover */
   --button-text-default: #718096;
   --button-text-active: #ffffff;
 }
@@ -186,8 +189,8 @@ p.subtitle {
 }
 
 .crop-card.selected {
-  border-color: #e2eaf5;
-  background-color: #f8fbff;
+  background-color: #f7f6f2;
+  /* Slightly brighter than Cloud Dancer */
 }
 
 .button-container {
@@ -210,13 +213,23 @@ p.subtitle {
 }
 
 .confirm-btn.primary {
-  background-color: #ebf1f9;
-  color: #94a7c1;
+  background-color: var(--button-default);
+  color: var(--button-text-default);
 }
 
 .confirm-btn.primary:not(:disabled) {
-  background-color: #2b6cb0;
-  color: white;
+  background-color: var(--button-active);
+  color: var(--button-text-active);
+}
+
+.confirm-btn:not(:disabled):hover {
+  background-color: var(--button-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(26, 57, 36, 0.2);
+}
+
+.confirm-btn:active {
+  transform: translateY(0);
 }
 
 

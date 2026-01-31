@@ -44,12 +44,7 @@ const SoilMoisture = ({ onBack, onConfirm }) => {
                 </div>
             </div>
 
-            <div className="progress-section" style={{ alignItems: 'flex-start', margin: '20px 0' }}>
-                <div className="progress-bar" style={{ width: '100%' }}>
-                    <div className="progress-fill" style={{ width: '100%' }}></div>
-                </div>
-                <span className="step-text" style={{ marginTop: '8px' }}>STEP 4 OF 4</span>
-            </div>
+
 
             <div className="header-section">
                 <h1 style={{ fontSize: '36px' }}>How wet is your soil?</h1>
@@ -80,14 +75,9 @@ const SoilMoisture = ({ onBack, onConfirm }) => {
 
             <div className="button-container">
                 <button
-                    className="confirm-btn"
+                    className="confirm-btn primary"
                     disabled={!selectedMoisture}
                     onClick={() => onConfirm(selectedMoisture)}
-                    style={{
-                        backgroundColor: selectedMoisture ? '#00E676' : '#ebf1f9',
-                        color: selectedMoisture ? 'white' : '#94a7c1',
-                        borderRadius: '16px'
-                    }}
                 >
                     CONFIRM MOISTURE LEVEL
                 </button>

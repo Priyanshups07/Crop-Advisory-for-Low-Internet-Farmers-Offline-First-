@@ -67,7 +67,7 @@ const ActionDetails = ({ onBack, onDone }) => {
             </div>
 
             <div className="button-container" style={{ marginTop: 'auto', padding: '32px 0' }}>
-                <button className="confirm-btn primary" onClick={onDone} style={{ backgroundColor: '#00E676', color: 'white' }}>
+                <button className="confirm-btn primary" onClick={onDone}>
                     <CheckCircle2 size={24} style={{ marginRight: '12px' }} />
                     DONE
                 </button>

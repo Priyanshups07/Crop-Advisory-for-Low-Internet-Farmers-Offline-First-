@@ -150,16 +150,8 @@ const WeatherSelection = ({ onConfirm }) => {
 
             <div className="button-container" style={{ marginTop: '24px' }}>
                 <button
-                    className="confirm-btn"
+                    className="confirm-btn primary"
                     onClick={() => onConfirm(selectedWeather)}
-                    style={{
-                        backgroundColor: '#2d5a27',
-                        color: 'white',
-                        borderRadius: '16px',
-                        fontSize: '18px',
-                        textTransform: 'uppercase',
-                        letterSpacing: '1px'
-                    }}
                 >
                     CONFIRM WEATHER <ArrowRight size={20} style={{ marginLeft: '8px' }} />
                 </button>

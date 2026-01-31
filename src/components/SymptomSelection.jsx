@@ -122,7 +122,7 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             </div>
 
             {selectedSymptoms.length > 0 && (
-                <div className="selected-summary" style={{ marginTop: '24px', padding: '16px', backgroundColor: 'white', borderRadius: '24px', boxShadow: '0 4px 6px -1px rgba(0,0,0,0.05)' }}>
+                <div className="selected-summary" style={{ marginTop: '24px', padding: '16px', backgroundColor: 'var(--bg-color)', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '24px', boxShadow: '0 4px 6px -1px rgba(0,0,0,0.05)' }}>
                     <h3 style={{ fontSize: '14px', fontWeight: '800', color: '#718096', letterSpacing: '1px', marginBottom: '12px' }}>SELECTED SYMPTOMS</h3>
                     {selectedSymptoms.map(id => {
                         const sym = currentData.symptoms.find(s => s.id === id);
@@ -144,7 +144,6 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
                     className="confirm-btn primary"
                     disabled={selectedSymptoms.length === 0}
                     onClick={() => onConfirm(selectedSymptoms)}
-                    style={{ backgroundColor: selectedSymptoms.length > 0 ? '#00E676' : '#ebf1f9', color: 'white' }}
                 >
                     {crop.toLowerCase() === 'wheat' ? 'Next' : 'Confirm Selection'} {crop.toLowerCase() === 'wheat' && <ArrowRight size={20} />}
                 </button>
