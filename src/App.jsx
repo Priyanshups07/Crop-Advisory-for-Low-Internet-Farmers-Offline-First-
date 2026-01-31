@@ -9,7 +9,7 @@ import WeatherSelection from './components/WeatherSelection';
 import SymptomSelection from './components/SymptomSelection';
 import DiagnosisResult from './components/DiagnosisResult';
 import ActionDetails from './components/ActionDetails';
-import BottomNav from './components/BottomNav';
+
 
 const App = () => {
   const [currentStep, setCurrentStep] = useState(1);
@@ -134,7 +134,6 @@ const App = () => {
       <div className="main-content">
         {renderContent()}
       </div>
-      <BottomNav />
     </>
   );
 };
