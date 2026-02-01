@@ -8,8 +8,9 @@ import {
   SprayCan as Spray,
 } from "lucide-react";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
+  const [isSpeaking, setIsSpeaking] = useState(false);
   // Mock result mapping based on crop
   const results = {
     rice: {
@@ -115,6 +116,24 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
   // Example: pick an advisory_action for demo
   let advisoryText = advisoryActions[data.treatment]?.[lang] || data.treatment;
 
+  const speak = () => {
+    if ('speechSynthesis' in window) {
+      // Cancel any ongoing speech
+      speechSynthesis.cancel();
+      
+      const text = `Detected Result: ${data.disease}. Treatment: ${data.treatment}. Frequency: ${data.frequency}`;
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = lang === 'en' ? 'en-US' : lang === 'hi' ? 'hi-IN' : 'mr-IN';
+      utterance.rate = 0.9;
+      
+      utterance.onstart = () => setIsSpeaking(true);
+      utterance.onend = () => setIsSpeaking(false);
+      utterance.onerror = () => setIsSpeaking(false);
+      
+      speechSynthesis.speak(utterance);
+    }
+  };
+
     return (
         <div className="app-container diagnosis-result-step" style={{ padding: 0 }}>
             {/* Offline Banner Overlap */}
@@ -138,7 +157,7 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
                         <span style={{ fontSize: '14px', fontWeight: '800', color: '#00E676', letterSpacing: '1px' }}>DETECTED RESULT</span>
                         <h1 style={{ fontSize: '32px', fontWeight: '900', color: '#1a202c', margin: '4px 0 0 0' }}>{data.disease}</h1>
                     </div>
-                    <button style={{ backgroundColor: '#00E676', border: 'none', borderRadius: '50%', width: '56px', height: '56px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'white', boxShadow: '0 4px 12px rgba(0,230,118,0.3)' }}>
+                    <button style={{ backgroundColor: '#00E676', border: 'none', borderRadius: '50%', width: '56px', height: '56px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'white', boxShadow: '0 4px 12px rgba(0,230,118,0.3)', cursor: 'pointer', opacity: isSpeaking ? 0.7 : 1 }} onClick={speak} disabled={isSpeaking}>
                         <Volume2 size={24} fill="currentColor" />
                     </button>
                 </div>
@@ -171,7 +190,7 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
                 <div className="button-container" style={{ margin: '32px 0 16px 0' }}>
                     <button className="confirm-btn primary" onClick={onConfirm}>
                         <CheckCircle2 size={24} style={{ marginRight: '12px' }} />
-                        START TREATMENT
+                        Done
                     </button>
                 </div>
             </div>
