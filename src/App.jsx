@@ -10,8 +10,8 @@ import SoilMoisture from "./components/SoilMoisture";
 import WeatherSelection from "./components/WeatherSelection";
 import SymptomSelection from "./components/SymptomSelection";
 import DiagnosisResult from "./components/DiagnosisResult";
-import ActionDetails from "./components/ActionDetails";
 import { useTranslation } from 'react-i18next';
+
 import './i18n';
 
 const App = () => {
@@ -24,7 +24,7 @@ const App = () => {
       try {
         await axios.post("http://localhost:5000/sync", unsynced);
         await db.reports.where("synced").notEqual(1).modify({ synced: 1 });
-      } catch (e) {
+      } catch {
         /* ignore offline errors */
       }
     }
@@ -40,9 +40,10 @@ const App = () => {
   const [selectedCrops, setSelectedCrops] = useState([]);
   const [selectedStage, setSelectedStage] = useState(null);
   const [selectedSoil, setSelectedSoil] = useState(null);
-  const [selectedMoisture, setSelectedMoisture] = useState(null);
-  const [selectedWeather, setSelectedWeather] = useState(null);
+  const [_selectedMoisture, setSelectedMoisture] = useState(null);
+  const [_selectedWeather, setSelectedWeather] = useState(null);
   const [selectedSymptoms, setSelectedSymptoms] = useState([]);
+
 
   const crops = [
     { id: "rice", name: t('crops.rice'), image: "/images/rice.png" },
@@ -162,13 +163,10 @@ const App = () => {
       return <GrowthStage onBack={handleBack} onConfirm={handleStageConfirm} />;
     }
     return (
-      <div className="app-container">
-        <div className="top-nav" style={{ justifyContent: 'flex-end' }}>
-          <TopBanner />
-        </div>
+      <div className="welcome-step">
         <div className="header-section">
           <h1>{t('welcome')}</h1>
-          <p className="subtitle">{t('tapCropsYouGrow')}</p>
+          <p className="subtitle">{t('prompts.tapCrops')}</p>
         </div>
         <div className="crop-grid">
           {crops.map((crop) => (
@@ -190,10 +188,12 @@ const App = () => {
   };
 
   return (
-    <>
-      <div className="main-content">{renderContent()}</div>
-    </>
+    <div className="app-container">
+      <TopBanner onBack={currentStep > 1 ? handleBack : null} />
+      <main className="main-content">{renderContent()}</main>
+    </div>
   );
 };
 
 export default App;
+

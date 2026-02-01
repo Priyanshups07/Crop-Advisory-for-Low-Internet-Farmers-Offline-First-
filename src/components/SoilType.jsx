@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
-import { ArrowLeft, CloudOff, ArrowRight } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import LanguageSwitcher from './LanguageSwitcher';
+import ConfirmButton from './ConfirmButton';
 
 import sandyImg from '../assets/sandy_soil.png';
 import loamImg from '../assets/loam_soil.png';
 
-const SoilType = ({ onBack, onConfirm }) => {
+const SoilType = ({ onConfirm }) => {
   const { t } = useTranslation();
   const [selectedSoil, setSelectedSoil] = useState(null);
 
@@ -18,18 +17,7 @@ const SoilType = ({ onBack, onConfirm }) => {
   ];
 
   return (
-    <div className="app-container">
-      <div className="top-nav">
-        <button className="back-btn" onClick={onBack}>
-          <ArrowLeft size={24} />
-        </button>
-        <div className="offline-banner" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <LanguageSwitcher />
-          <CloudOff size={16} />
-          <span>{t('offlineReady')}</span>
-        </div>
-      </div>
-
+    <div className="soil-step">
       <div className="header-section">
         <h1>{t('steps.soil')}</h1>
         <p className="subtitle">{t('prompts.selectSoil')}</p>
@@ -52,17 +40,13 @@ const SoilType = ({ onBack, onConfirm }) => {
         ))}
       </div>
 
-      <div className="button-container">
-        <button
-          className="confirm-btn primary"
-          disabled={!selectedSoil}
-          onClick={() => onConfirm(selectedSoil)}
-        >
-          {t('continue')} <ArrowRight size={24} />
-        </button>
-      </div>
+      <ConfirmButton
+        disabled={!selectedSoil}
+        onClick={() => onConfirm(selectedSoil)}
+      />
     </div>
   );
 };
 
 export default SoilType;
+

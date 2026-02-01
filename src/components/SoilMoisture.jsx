@@ -1,15 +1,13 @@
 import React, { useState } from 'react';
-import { ArrowLeft, CloudOff, CheckCircle2, ArrowRight } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import playTextKey from '../utils/tts';
-import LanguageSwitcher from './LanguageSwitcher';
+import ConfirmButton from './ConfirmButton';
 
 import dryImg from '../assets/sandy_soil.png';
 import slightImg from '../assets/loam_soil.png';
 import optimalImg from '../assets/optimal_soil_v2.png';
 import wetImg from '../assets/wet_soil_v2.png';
 
-const SoilMoisture = ({ onBack, onConfirm }) => {
+const SoilMoisture = ({ onConfirm }) => {
     const { t } = useTranslation();
     const [selectedMoisture, setSelectedMoisture] = useState(null);
 
@@ -41,20 +39,7 @@ const SoilMoisture = ({ onBack, onConfirm }) => {
     ];
 
     return (
-
-        <div className="app-container">
-            {/* Top Navigation */}
-            <div className="top-nav">
-                <button className="back-btn" onClick={onBack}>
-                    <ArrowLeft size={24} />
-                </button>
-                <div className="offline-banner" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                    <LanguageSwitcher />
-                    <CloudOff size={16} />
-                    <span>{t('offlineReady')}</span>
-                </div>
-            </div>
-
+        <div className="moisture-step">
             <div className="header-section">
                 <h1>{t('steps.moisture')}</h1>
                 <p className="subtitle">{t('prompts.howWet')}</p>
@@ -78,17 +63,13 @@ const SoilMoisture = ({ onBack, onConfirm }) => {
                 ))}
             </div>
 
-            <div className="button-container">
-                <button
-                    className="confirm-btn primary"
-                    disabled={!selectedMoisture}
-                    onClick={() => onConfirm(selectedMoisture)}
-                >
-                    CONTINUE <ArrowRight size={24} />
-                </button>
-            </div>
+            <ConfirmButton
+                disabled={!selectedMoisture}
+                onClick={() => onConfirm(selectedMoisture)}
+            />
         </div>
     );
 };
 
 export default SoilMoisture;
+

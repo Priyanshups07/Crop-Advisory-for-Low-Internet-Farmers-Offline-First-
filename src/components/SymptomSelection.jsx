@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { ArrowLeft, ArrowRight, Volume2, CheckCircle2, CloudOff, Info } from 'lucide-react';
+import { CheckCircle2 } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import LanguageSwitcher from './LanguageSwitcher';
+import ConfirmButton from './ConfirmButton';
 
-const SymptomSelection = ({ crop, onBack, onConfirm }) => {
+const SymptomSelection = ({ crop, onConfirm }) => {
     const { t } = useTranslation();
     const [selectedSymptoms, setSelectedSymptoms] = useState([]);
 
@@ -66,7 +66,6 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             if (prev.includes(id)) {
                 return prev.filter(item => item !== id);
             } else {
-                // If selecting healthy, deselect others. If selecting disease, deselect healthy.
                 if (id === 'healthy') return ['healthy'];
                 return [...prev.filter(item => item !== 'healthy'), id];
             }
@@ -74,18 +73,7 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
     };
 
     return (
-        <div className="app-container symptom-step">
-            <div className="top-nav">
-                <button className="back-btn" onClick={onBack}>
-                    <ArrowLeft size={24} />
-                </button>
-                <div className="offline-banner" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                    <LanguageSwitcher />
-                    <CloudOff size={16} />
-                    <span>{t('offlineReady')}</span>
-                </div>
-            </div>
-
+        <div className="symptom-step">
             <div className="header-section">
                 <h1>{currentData.title}</h1>
                 <p className="subtitle">{currentData.subtitle}</p>
@@ -126,17 +114,13 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
                 </div>
             )}
 
-            <div className="button-container">
-                <button
-                    className="confirm-btn primary"
-                    disabled={selectedSymptoms.length === 0}
-                    onClick={() => onConfirm(selectedSymptoms)}
-                >
-                    {t('continue')} <ArrowRight size={24} />
-                </button>
-            </div>
+            <ConfirmButton
+                disabled={selectedSymptoms.length === 0}
+                onClick={() => onConfirm(selectedSymptoms)}
+            />
         </div>
     );
 };
 
 export default SymptomSelection;
+
