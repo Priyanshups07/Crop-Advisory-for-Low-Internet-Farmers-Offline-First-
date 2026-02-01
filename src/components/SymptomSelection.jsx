@@ -2,6 +2,11 @@ import React, { useState } from 'react';
 import { ArrowLeft, ArrowRight, Volume2, CheckCircle2, CloudOff, Info } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from './LanguageSwitcher';
+import riceBrownLesions from '../assets/rice_brown_lesions.svg';
+import riceYellowing from '../assets/rice_yellowing.svg';
+import riceGreySpots from '../assets/rice_grey_spots.svg';
+import riceSpindle from '../assets/rice_spindle.svg';
+import riceHealthy from '../assets/rice_healthy.svg';
 
 const SymptomSelection = ({ crop, onBack, onConfirm }) => {
     const { t } = useTranslation();
@@ -13,11 +18,11 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: t('symptomInfo.rice.subtitle'),
             helpText: t('symptomInfo.rice.helpText'),
             symptoms: [
-                { id: 'brown-lesions', name: t('symptoms.brownLesions'), image: 'https://images.unsplash.com/photo-1535242208474-9a28972a0c40?q=80&w=600&auto=format&fit=crop' },
-                { id: 'yellowing', name: t('symptoms.yellowing'), image: 'https://images.unsplash.com/photo-1628172901320-c24095493019?q=80&w=600&auto=format&fit=crop' },
-                { id: 'grey-spots', name: t('symptoms.greySpots'), image: 'https://images.unsplash.com/photo-1594750801824-f773347b973c?q=80&w=600&auto=format&fit=crop' },
-                { id: 'spindle', name: t('symptoms.spindle'), image: 'https://images.unsplash.com/photo-1643906663554-f58c49e25d2c?q=80&w=600&auto=format&fit=crop' },
-                { id: 'healthy', name: t('symptoms.healthy'), image: 'https://images.unsplash.com/photo-1536633310197-080f5d729863?q=80&w=600&auto=format&fit=crop', isHealthy: true },
+                { id: 'brown-lesions', name: t('symptoms.brownLesions'), image: riceBrownLesions },
+                { id: 'yellowing', name: t('symptoms.yellowing'), image: riceYellowing },
+                { id: 'grey-spots', name: t('symptoms.greySpots'), image: riceGreySpots },
+                { id: 'spindle', name: t('symptoms.spindle'), image: riceSpindle },
+                { id: 'healthy', name: t('symptoms.healthy'), image: riceHealthy, isHealthy: true },
             ]
         },
         wheat: {
@@ -25,12 +30,12 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: t('symptomInfo.wheat.subtitle'),
             helpText: t('symptomInfo.wheat.helpText'),
             symptoms: [
-                { id: 'brown-pustules', name: t('symptoms.brownPustules'), image: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=600&auto=format&fit=crop' },
-                { id: 'powdery', name: t('symptoms.powdery'), image: 'https://images.unsplash.com/photo-1501430654243-c936ceaaf399?q=80&w=600&auto=format&fit=crop' },
-                { id: 'brown-patches', name: t('symptoms.brownPatches'), image: 'https://images.unsplash.com/photo-1444858291040-5897ea3997e7?q=80&w=600&auto=format&fit=crop' },
-                { id: 'white-powder', name: t('symptoms.whitePowder'), image: 'https://images.unsplash.com/photo-1473071538314-bc487fa44b67?q=80&w=600&auto=format&fit=crop' },
-                { id: 'stunted', name: t('symptoms.stunted'), image: 'https://images.unsplash.com/photo-1591901140938-f9b87df8ebf2?q=80&w=600&auto=format&fit=crop' },
-                { id: 'healthy', name: t('symptoms.healthy'), image: 'https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?q=80&w=600&auto=format&fit=crop', isHealthy: true },
+                { id: 'brown-pustules', name: t('symptoms.brownPustules'), image: '/images/wheat/brown_pustules.jpg' },
+                { id: 'powdery', name: t('symptoms.powdery'), image: '/images/wheat/powdery.jpg' },
+                { id: 'brown-patches', name: t('symptoms.brownPatches'), image: '/images/wheat/brown_patches.png' },
+                { id: 'white-powder', name: t('symptoms.whitePowder'), image: '/images/wheat/white_powder.jpg' },
+                { id: 'stunted', name: t('symptoms.stunted'), image: '/images/wheat/stunted.jpg' },
+                { id: 'healthy', name: t('symptoms.healthy'), image: '/images/wheat/healthy.jpg', isHealthy: true },
             ]
         },
         sugarcane: {
@@ -38,12 +43,12 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: t('symptomInfo.sugarcane.subtitle'),
             helpText: t('symptomInfo.sugarcane.helpText'),
             symptoms: [
-                { id: 'yellowing', name: t('symptoms.yellowing'), image: 'https://images.unsplash.com/photo-1636181656885-ad78c257329d?q=80&w=600&auto=format&fit=crop' },
-                { id: 'drying-canes', name: t('symptoms.dryingCanes'), image: 'https://images.unsplash.com/photo-1622329241584-699a22d3e121?q=80&w=600&auto=format&fit=crop' },
-                { id: 'red-streaks', name: t('symptoms.redStreaks'), image: 'https://images.unsplash.com/photo-1650192388648-65800ec59fee?q=80&w=600&auto=format&fit=crop' },
-                { id: 'drying-stalks', name: t('symptoms.dryingStalks'), image: 'https://images.unsplash.com/photo-1593113598332-cd288d649433?q=80&w=600&auto=format&fit=crop' },
-                { id: 'black-smut', name: t('symptoms.blackSmut'), image: 'https://images.unsplash.com/photo-1589923188900-85dae523342b?q=80&w=600&auto=format&fit=crop' },
-                { id: 'healthy', name: t('symptoms.healthy'), image: 'https://images.unsplash.com/photo-1622329241584-699a22d3e121?q=80&w=600&auto=format&fit=crop', isHealthy: true },
+                { id: 'yellowing', name: t('symptoms.yellowing'), image: '/images/sugarcane/yellowing.jpg' },
+                { id: 'drying-canes', name: t('symptoms.dryingCanes'), image: '/images/sugarcane/drying_canes.jpg' },
+                { id: 'red-streaks', name: t('symptoms.redStreaks'), image: '/images/sugarcane/red_streaks.jpg' },
+                { id: 'drying-stalks', name: t('symptoms.dryingStalks'), image: '/images/sugarcane/drying_stalks.jpg' },
+                { id: 'black-smut', name: t('symptoms.blackSmut'), image: '/images/sugarcane/black_smut.jpg' },
+                { id: 'healthy', name: t('symptoms.healthy'), image: '/images/sugarcane/healthy.jpg', isHealthy: true },
             ]
         },
         maize: {

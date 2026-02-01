@@ -1,0 +1,7 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <rect width="600" height="400" fill="#f5f5dc"/>
+ <path d="M100 100 Q 150 80 200 100 T 300 100" stroke="#d4af37" stroke-width="50" fill="none" opacity="0.7"/>
+ <path d="M150 200 Q 200 180 250 200 T 350 200" stroke="#e6c94a" stroke-width="45" fill="none" opacity="0.6"/>
+ <path d="M250 280 Q 300 260 350 280 T 450 280" stroke="#d4af37" stroke-width="40" fill="none" opacity="0.65"/>
+ <text x="300" y="380" font-family="Arial" font-size="26" text-anchor="middle" fill="#8b6914">Yellowing Rice Leaves</text>
+</svg>
