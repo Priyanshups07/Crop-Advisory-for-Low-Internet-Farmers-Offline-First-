@@ -11,7 +11,6 @@ import SoilMoisture from "./components/SoilMoisture";
 import WeatherSelection from "./components/WeatherSelection";
 import SymptomSelection from "./components/SymptomSelection";
 import DiagnosisResult from "./components/DiagnosisResult";
-import ActionDetails from './components/ActionDetails';
 import SettingsModal from './components/SettingsModal';
 import { useTranslation } from 'react-i18next';
 import './i18n';
@@ -136,6 +135,10 @@ const App = () => {
       return (
         <DiagnosisResult
           crop={selectedCrops[0]}
+          stage={selectedStage}
+          soil={selectedSoil}
+          moisture={selectedMoisture}
+          weather={selectedWeather}
           symptoms={selectedSymptoms}
           onBack={handleBack}
           onConfirm={handleDiagnosisConfirm}
@@ -167,8 +170,8 @@ const App = () => {
     }
     return (
       <div className="app-container" style={{ position: 'relative' }}>
-        <button className="settings-btn" onClick={() => setIsSettingsOpen(true)}>
-          <Settings size={28} />
+        <button className="settings-btn" onClick={() => setIsSettingsOpen(true)} style={{ width: '40px', height: '40px', top: '16px', right: '16px' }}>
+          <Settings size={20} />
         </button>
         <TopBanner onBack={null} />
         <div className="header-section">

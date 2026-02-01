@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import ConfirmButton from './ConfirmButton';
+import TopBanner from './TopBanner';
 
 
 import sandyImg from '../assets/sandy_soil.png';
@@ -8,7 +9,7 @@ import loamImg from '../assets/loam_soil.png';
 import clayImg from '../assets/soils/clay_soil.svg';
 import redImg from '../assets/soils/red_soil.svg';
 
-const SoilType = ({ onConfirm }) => {
+const SoilType = ({ onBack, onConfirm }) => {
   const { t } = useTranslation();
   const [selectedSoil, setSelectedSoil] = useState(null);
 
@@ -20,7 +21,9 @@ const SoilType = ({ onConfirm }) => {
   ];
 
   return (
-    <div className="soil-step">
+    <div className="app-container soil-step">
+      <TopBanner onBack={onBack} />
+
       <div className="header-section">
         <h1>{t('steps.soil')}</h1>
         <p className="subtitle">{t('prompts.selectSoil')}</p>
@@ -37,7 +40,7 @@ const SoilType = ({ onConfirm }) => {
               <img src={soil.image} alt={soil.name} />
             </div>
             <div className="card-info">
-              <span className="name">{soil.name}</span>
+              <span className="name" style={{ fontSize: '14px' }}>{soil.name}</span>
             </div>
           </div>
         ))}
@@ -52,4 +55,3 @@ const SoilType = ({ onConfirm }) => {
 };
 
 export default SoilType;
-

@@ -1,15 +1,14 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import ConfirmButton from './ConfirmButton';
-
-import LanguageSwitcher from './LanguageSwitcher';
+import TopBanner from './TopBanner';
 
 import sproutImg from '../assets/sprout_stage.png';
 import growImg from '../assets/grow_stage.png';
 import flowerImg from '../assets/flower_stage.png';
 import matureImg from '../assets/mature_stage.png';
 
-const GrowthStage = ({ onConfirm }) => {
+const GrowthStage = ({ onBack, onConfirm }) => {
   const { t } = useTranslation();
   const [selectedStage, setSelectedStage] = useState(null);
 
@@ -21,7 +20,9 @@ const GrowthStage = ({ onConfirm }) => {
   ];
 
   return (
-    <div className="growth-step">
+    <div className="app-container growth-step">
+      <TopBanner onBack={onBack} />
+
       <div className="header-section">
         <h1>{t('steps.growth')}</h1>
         <p className="subtitle">{t('prompts.tapStage')}</p>
@@ -38,7 +39,7 @@ const GrowthStage = ({ onConfirm }) => {
               <img src={stage.image} alt={stage.name} />
             </div>
             <div className="card-info">
-              <span className="name">{stage.name}</span>
+              <span className="name" style={{ fontSize: '14px' }}>{stage.name}</span>
             </div>
           </div>
         ))}
@@ -49,8 +50,6 @@ const GrowthStage = ({ onConfirm }) => {
         onClick={() => onConfirm(selectedStage)}
       />
     </div>
-
-
   );
 };
 

@@ -12,7 +12,7 @@ const ConfirmButton = ({ disabled, onClick, label, icon: Icon = ArrowRight }) =>
         className="confirm-btn primary"
       >
         <span>{label || t('continue')}</span>
-        {Icon && <Icon size={24} />}
+        {Icon && <Icon size={20} />}
       </button>
     </div>
   );

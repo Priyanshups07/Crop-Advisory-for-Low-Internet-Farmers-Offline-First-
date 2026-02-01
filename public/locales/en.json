@@ -72,12 +72,30 @@
       }
     },
     "wheat": {
-      "disease": "Powdery Mildew",
-      "treatment": "Sulfur Dusting",
-      "frequency": "Apply weekly in dry conditions",
+      "disease": "Leaf Rust (Wheat Rust)",
+      "treatment": "Apply Targeted Fungicide or Neem Oil",
+      "frequency": "Spray every 10 days for 3 weeks",
       "steps": {
-        "dust": "DUST EVENLY",
-        "remove": "REMOVE DEBRIS"
+        "spray": "SPRAY FOLIAGE",
+        "remove": "REMOVE INFECTED PLANTS"
+      }
+    },
+    "sugarcane": {
+      "disease": "Red Rot",
+      "treatment": "Healthy Set Selection & Soil Drainage",
+      "frequency": "Action required during planting season",
+      "steps": {
+        "treat": "TREAT SETS",
+        "drain": "IMPROVE DRAINAGE"
+      }
+    },
+    "maize": {
+      "disease": "Maize Rust",
+      "treatment": "Mancozeb or Copper Spray",
+      "frequency": "Spray immediately upon first symptom",
+      "steps": {
+        "spray": "SPRAY FUNGICIDE",
+        "check": "CHECK COBS"
       }
     },
     "default": {
@@ -86,7 +104,11 @@
       "frequency": "Apply once immediately",
       "steps": {
         "mix": "MIX PROPERLY",
-        "water": "WATER WELL"
+        "water": "WATER WELL",
+        "spray": "SPRAY EVENLY",
+        "check": "CHECK CONDITIONS",
+        "drain": "IMPROVE DRAINAGE",
+        "remove": "REMOVE DEBRIS"
       }
     }
   },

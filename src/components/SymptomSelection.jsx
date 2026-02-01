@@ -80,10 +80,10 @@ const SymptomSelection = ({ crop, onConfirm }) => {
             subtitle: t('symptomInfo.maize.subtitle'),
             helpText: t('symptomInfo.maize.helpText'),
             symptoms: [
-                { id: 'brown-pustules', name: t('symptoms.brownPustules'), image: maizeBrownPustules },
-                { id: 'white-growth', name: t('symptoms.whiteGrowth'), image: maizeWhiteGrowth },
-                { id: 'gray-lesions', name: t('symptoms.grayLesions'), image: maizeGrayLesions },
-                { id: 'healthy', name: t('symptoms.healthy'), image: maizeHealthy, isHealthy: true },
+                { id: 'brown-pustules', name: t('symptoms.brownPustules'), image: '/images/maize/brown_pustules.jpg' },
+                { id: 'white-growth', name: t('symptoms.whiteGrowth'), image: '/images/maize/white_growth.jpg' },
+                { id: 'gray-lesions', name: t('symptoms.grayLesions'), image: '/images/maize/gray_lesions.png' },
+                { id: 'healthy', name: t('symptoms.healthy'), image: '/images/maize/healthy.jpg', isHealthy: true },
             ]
         }
     };
@@ -126,8 +126,8 @@ const SymptomSelection = ({ crop, onConfirm }) => {
             </div>
 
             {selectedSymptoms.length > 0 && (
-                <div className="selected-summary" style={{ marginTop: '16px', padding: '20px', backgroundColor: 'var(--glass-bg)', border: '1px solid var(--glass-border)', borderRadius: '24px', backdropFilter: 'blur(8px)' }}>
-                    <h3 style={{ fontSize: '11px', fontWeight: '800', color: 'var(--secondary-text)', letterSpacing: '1px', marginBottom: '12px', textTransform: 'uppercase' }}>{t('prompts.selectedSymptoms')}</h3>
+                <div className="selected-summary" style={{ marginTop: '12px', padding: '16px', backgroundColor: 'var(--glass-bg)', border: '1px solid var(--glass-border)', borderRadius: '16px', backdropFilter: 'blur(8px)' }}>
+                    <h3 style={{ fontSize: '10px', fontWeight: '800', color: 'var(--secondary-text)', letterSpacing: '1px', marginBottom: '8px', textTransform: 'uppercase' }}>{t('prompts.selectedSymptoms')}</h3>
                     {selectedSymptoms.map(id => {
                         const sym = currentData.symptoms.find(s => s.id === id);
                         return (
