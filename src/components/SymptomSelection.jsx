@@ -1,5 +1,15 @@
 import React, { useState } from 'react';
 import { ArrowLeft, ArrowRight, Volume2, CheckCircle2, CloudOff, Info } from 'lucide-react';
+import maizeBrownPustules from '../assets/maize_brown_pustules.jpg';
+import maizeWhiteGrowth from '../assets/maize_white_growth.jpg';
+import maizeGrayLesions from '../assets/maize_gray_lesions.png';
+import maizeHealthy from '../assets/maize_healthy.jpg';
+import sugarcaneYellowing from '../assets/sugarcane_yellowing.jpg';
+import sugarcaneDryingCanes from '../assets/sugarcane_drying_canes.jpg';
+import sugarcaneRedStreaks from '../assets/sugarcane_red_streaks.jpg';
+import sugarcaneDryingStalks from '../assets/sugarcane_drying_stalks.jpg';
+import sugarcaneBlackSmut from '../assets/sugarcane_smut.jpg';
+import sugarcaneHealthy from '../assets/sugarcane_healthy.jpg';
 
 const SymptomSelection = ({ crop, onBack, onConfirm }) => {
     const [selectedSymptoms, setSelectedSymptoms] = useState([]);
@@ -22,12 +32,12 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: "What do you see?",
             helpText: "Select all symptoms visible on the plant.",
             symptoms: [
-                { id: 'brown-pustules', name: 'Reddish brown pustules', image: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=600&auto=format&fit=crop' },
-                { id: 'powdery', name: 'Powdery coating', image: 'https://images.unsplash.com/photo-1501430654243-c936ceaaf399?q=80&w=600&auto=format&fit=crop' },
-                { id: 'brown-patches', name: 'Irregular brown patches', image: 'https://images.unsplash.com/photo-1444858291040-5897ea3997e7?q=80&w=600&auto=format&fit=crop' },
-                { id: 'white-powder', name: 'White powder spots', image: 'https://images.unsplash.com/photo-1473071538314-bc487fa44b67?q=80&w=600&auto=format&fit=crop' },
-                { id: 'stunted', name: 'Stunted growth', image: 'https://images.unsplash.com/photo-1591901140938-f9b87df8ebf2?q=80&w=600&auto=format&fit=crop' },
-                { id: 'healthy', name: 'No visible symptoms', image: 'https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?q=80&w=600&auto=format&fit=crop', isHealthy: true },
+                { id: 'brown-pustules', name: 'Reddish brown pustules', image: 'https://images.unsplash.com/photo-1549413204-747f5255474d?q=80&w=600&auto=format&fit=crop' },
+                { id: 'powdery', name: 'Powdery coating', image: 'https://images.unsplash.com/photo-1541624009852-6a7516801931?q=80&w=600&auto=format&fit=crop' },
+                { id: 'brown-patches', name: 'Irregular brown patches', image: 'https://images.unsplash.com/photo-1541533221946-f9478f7e91bd?q=80&w=600&auto=format&fit=crop' },
+                { id: 'white-powder', name: 'White powder spots', image: 'https://images.unsplash.com/photo-1541624009852-6a7516801931?q=80&w=600&auto=format&fit=crop' },
+                { id: 'stunted', name: 'Stunted growth', image: 'https://images.unsplash.com/photo-1589140417258-3f4340798be4?q=80&w=600&auto=format&fit=crop' },
+                { id: 'healthy', name: 'No visible symptoms', image: 'https://images.unsplash.com/photo-1542314506-6df7d27e3661?q=80&w=600&auto=format&fit=crop', isHealthy: true },
             ]
         },
         sugarcane: {
@@ -35,12 +45,12 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: "Tap all the symptoms that apply to your crop",
             helpText: "",
             symptoms: [
-                { id: 'yellowing', name: 'Yellowing leaves', image: 'https://images.unsplash.com/photo-1636181656885-ad78c257329d?q=80&w=600&auto=format&fit=crop' },
-                { id: 'drying-canes', name: 'Drying canes', image: 'https://images.unsplash.com/photo-1622329241584-699a22d3e121?q=80&w=600&auto=format&fit=crop' },
-                { id: 'red-streaks', name: 'Red streaks', image: 'https://images.unsplash.com/photo-1650192388648-65800ec59fee?q=80&w=600&auto=format&fit=crop' },
-                { id: 'drying-stalks', name: 'Drying stalks', image: 'https://images.unsplash.com/photo-1593113598332-cd288d649433?q=80&w=600&auto=format&fit=crop' },
-                { id: 'black-smut', name: 'Black smut', image: 'https://images.unsplash.com/photo-1589923188900-85dae523342b?q=80&w=600&auto=format&fit=crop' },
-                { id: 'healthy', name: 'Healthy / None', image: 'https://images.unsplash.com/photo-1622329241584-699a22d3e121?q=80&w=600&auto=format&fit=crop', isHealthy: true },
+                { id: 'yellowing', name: 'Yellowing leaves', image: sugarcaneYellowing },
+                { id: 'drying-canes', name: 'Drying canes', image: sugarcaneDryingCanes },
+                { id: 'red-streaks', name: 'Red streaks', image: sugarcaneRedStreaks },
+                { id: 'drying-stalks', name: 'Drying stalks', image: sugarcaneDryingStalks },
+                { id: 'black-smut', name: 'Black smut', image: sugarcaneBlackSmut },
+                { id: 'healthy', name: 'Healthy / None', image: sugarcaneHealthy, isHealthy: true },
             ]
         },
         maize: {
@@ -48,10 +58,10 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: "What do you see on your corn?",
             helpText: "Select all that apply to your crop.",
             symptoms: [
-                { id: 'brown-pustules', name: 'Brown pustules', image: 'https://images.unsplash.com/photo-1551754655-cd27e38d2076?q=80&w=600&auto=format&fit=crop' },
-                { id: 'white-growth', name: 'White growth', image: 'https://images.unsplash.com/photo-1543362906-acfc16c623a2?q=80&w=600&auto=format&fit=crop' },
-                { id: 'gray-lesions', name: 'Gray lesions', image: 'https://images.unsplash.com/photo-1590634158913-90d5757d23d8?q=80&w=600&auto=format&fit=crop' },
-                { id: 'healthy', name: 'Healthy / None', image: 'https://images.unsplash.com/photo-1528650047-92a0618037a1?q=80&w=600&auto=format&fit=crop', isHealthy: true },
+                { id: 'brown-pustules', name: 'Brown pustules', image: maizeBrownPustules },
+                { id: 'white-growth', name: 'White growth', image: maizeWhiteGrowth },
+                { id: 'gray-lesions', name: 'Gray lesions', image: maizeGrayLesions },
+                { id: 'healthy', name: 'Healthy / None', image: maizeHealthy, isHealthy: true },
             ]
         }
     };

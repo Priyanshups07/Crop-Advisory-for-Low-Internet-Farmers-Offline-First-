@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Settings } from 'lucide-react';
 import TopBanner from './components/TopBanner';
 import CropCard from './components/CropCard';
 import ConfirmButton from './components/ConfirmButton';
@@ -9,6 +10,7 @@ import WeatherSelection from './components/WeatherSelection';
 import SymptomSelection from './components/SymptomSelection';
 import DiagnosisResult from './components/DiagnosisResult';
 import ActionDetails from './components/ActionDetails';
+import SettingsModal from './components/SettingsModal';
 
 
 const App = () => {
@@ -19,6 +21,8 @@ const App = () => {
   const [selectedMoisture, setSelectedMoisture] = useState(null);
   const [selectedWeather, setSelectedWeather] = useState(null);
   const [selectedSymptoms, setSelectedSymptoms] = useState([]);
+  const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [language, setLanguage] = useState('en');
 
   const crops = [
     { id: 'rice', name: 'Rice', image: '/images/rice.png' },
@@ -104,7 +108,10 @@ const App = () => {
       return <GrowthStage onBack={handleBack} onConfirm={handleStageConfirm} />;
     }
     return (
-      <div className="app-container">
+      <div className="app-container" style={{ position: 'relative' }}>
+        <button className="settings-btn" onClick={() => setIsSettingsOpen(true)}>
+          <Settings size={28} />
+        </button>
         <TopBanner />
         <header>
           <h1>Welcome</h1>
@@ -134,8 +141,19 @@ const App = () => {
       <div className="main-content">
         {renderContent()}
       </div>
+      <SettingsModal
+        isOpen={isSettingsOpen}
+        onClose={() => setIsSettingsOpen(false)}
+        currentLanguage={language}
+        onLanguageChange={(lang) => {
+          setLanguage(lang);
+          // In a real app, logic to change app context/i18n would go here
+          console.log("Language changed to:", lang);
+        }}
+      />
     </>
   );
 };
 
 export default App;
+
