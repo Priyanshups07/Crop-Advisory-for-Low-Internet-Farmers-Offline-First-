@@ -1,17 +1,21 @@
 import React from 'react';
-import { CircleCheck } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 
 const ConfirmButton = ({ disabled, onClick }) => {
-    return (
-        <button
-            onClick={onClick}
-            disabled={disabled}
-            className="confirm-btn primary"
-        >
-            <span>Confirm Selection</span>
-            <CircleCheck size={24} />
-        </button>
-    );
+  const { t } = useTranslation();
+  return (
+    <div className="button-container">
+      <button
+        onClick={onClick}
+        disabled={disabled}
+        className="confirm-btn primary"
+      >
+        <span>{t('continue')}</span>
+        <ArrowRight size={24} />
+      </button>
+    </div>
+  );
 };
 
 export default ConfirmButton;

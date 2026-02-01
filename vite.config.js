@@ -26,6 +26,27 @@ export default defineConfig({
             type: 'image/png'
           }
         ]
+      },
+      workbox: {
+        // Cache locale JSON and any pre-generated TTS mp3s for 48 hours
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.startsWith('/locales/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'locales-cache',
+              expiration: { maxAgeSeconds: 48 * 60 * 60 }
+            }
+          },
+          {
+            urlPattern: ({ url }) => url.pathname.startsWith('/tts/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'tts-cache',
+              expiration: { maxAgeSeconds: 48 * 60 * 60 }
+            }
+          }
+        ]
       }
     })
   ],

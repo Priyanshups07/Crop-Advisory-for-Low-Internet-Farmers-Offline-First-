@@ -1,0 +1,3530 @@
+[
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Brown pustules"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Elongated gray lesions"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Cob Formation",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Tasseling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Maize",
+    "growth_stage": "Sowing",
+    "detected_disease": "Downy Mildew",
+    "symptoms": "White growth under leaves"
+  }
+]

@@ -1,18 +1,21 @@
 :root {
   --bg-color: #F0EFEB;
+  /* Cloud Dancer */
   --primary-text: #1a202c;
   --secondary-text: #4a5568;
   --accent-green: #e2f9e1;
   --accent-green-text: #2d5a27;
-  --card-bg: #ffffff;
-  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --card-bg: rgba(255, 255, 255, 0.9);
+  --card-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
   --button-default: #e2e8f0;
   --button-active: #1A3924;
   /* Dark Green */
   --button-hover: #0d1d12;
-  /* Even Darker Green for hover */
   --button-text-default: #718096;
   --button-text-active: #ffffff;
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.18);
+  --transition-speed: 0.3s;
 }
 
 * {
@@ -28,6 +31,19 @@ body {
   color: var(--primary-text);
   overflow-x: hidden;
   min-height: 100vh;
+  line-height: 1.5;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 #root {
@@ -40,21 +56,28 @@ body {
   display: flex;
   flex-direction: column;
   padding: 24px;
-  gap: 32px;
+  gap: 24px;
   max-width: 500px;
   margin: 0 auto;
   flex: 1;
+  animation: fadeIn 0.5s ease-out forwards;
+  overflow-y: auto;
+  min-height: 100vh;
 }
 
 h1 {
-  font-size: 32px;
-  font-weight: 700;
-  margin-bottom: 8px;
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 4px;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
 }
 
 p.subtitle {
   color: var(--secondary-text);
-  font-size: 18px;
+  font-size: 16px;
+  font-weight: 500;
+  opacity: 0.8;
 }
 
 .crop-grid {
@@ -68,20 +91,26 @@ p.subtitle {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 8px;
+  padding: 8px 0;
+  margin-bottom: 24px;
+  min-height: 48px;
 }
 
 .offline-banner {
   display: flex;
   align-items: center;
   gap: 8px;
-  background-color: var(--accent-green);
+  background-color: var(--glass-bg);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   color: var(--accent-green-text);
-  padding: 8px 12px;
-  border-radius: 20px;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 0.5px;
+  padding: 8px 16px;
+  border-radius: 50px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
 .progress-section {
@@ -116,7 +145,8 @@ p.subtitle {
 .header-section {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 8px;
+  margin-bottom: 12px;
 }
 
 .back-btn {
@@ -349,8 +379,9 @@ p.subtitle {
 }
 
 .card-info .name {
-  font-size: 20px;
-  font-weight: 700;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--primary-text);
 }
 
 .card-info .status-icon {
@@ -363,36 +394,51 @@ p.subtitle {
 
 .crop-card {
   cursor: pointer;
-  padding: 12px;
+  padding: 16px;
   background: var(--card-bg);
   border-radius: 32px;
   box-shadow: var(--card-shadow);
-  transition: all 0.2s ease;
-  border: 4px solid transparent;
+  transition: all var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid var(--glass-border);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.crop-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+  border-color: var(--button-active);
 }
 
 .crop-card.selected {
-  background-color: #f7f6f2;
-  /* Slightly brighter than Cloud Dancer */
+  border-color: var(--button-active);
+  background-color: var(--glass-bg);
+  transform: scale(0.98);
 }
 
 .button-container {
   margin-top: auto;
-  padding-bottom: 24px;
+  padding: 40px 0 32px 0;
+  width: 100%;
 }
 
 .confirm-btn {
   width: 100%;
-  padding: 18px;
-  border-radius: 24px;
+  height: 72px;
+  border-radius: 20px;
   border: none;
-  font-size: 18px;
-  font-weight: 700;
+  font-size: 20px;
+  font-weight: 800;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
-  transition: all 0.2s ease;
+  gap: 16px;
+  transition: all var(--transition-speed) ease;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 .confirm-btn.primary {

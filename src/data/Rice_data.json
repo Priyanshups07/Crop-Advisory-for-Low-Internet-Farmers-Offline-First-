@@ -1,0 +1,3920 @@
+[
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Tillering",
+    "detected_disease": "Leaf Blast",
+    "symptoms": "Gray spindle-shaped spots, Leaf drying"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Grain Filling",
+    "detected_disease": "Bacterial Blight",
+    "symptoms": "Leaf tip burn, Wilting"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Rice",
+    "growth_stage": "Sowing",
+    "detected_disease": "Brown Spot",
+    "symptoms": "Brown lesions, Yellowing leaves"
+  }
+]
