@@ -114,4 +114,4 @@ graph TD
 
 ---
 
-> *Built with ❤️ by the AgroTech Team for the Global Hackathon.*
+> *Built with ❤️ by the Decoders for the Global Hackathon.*
