@@ -128,7 +128,7 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
                     disabled={selectedSymptoms.length === 0}
                     onClick={() => onConfirm(selectedSymptoms)}
                 >
-                    CONTINUE <ArrowRight size={20} />
+                    CONTINUE <ArrowRight size={24} />
                 </button>
             </div>
         </div>

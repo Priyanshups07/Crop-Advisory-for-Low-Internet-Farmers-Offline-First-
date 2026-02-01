@@ -57,10 +57,14 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
     return (
         <div className="app-container diagnosis-result-step" style={{ padding: 0 }}>
             {/* Header with Back Button */}
-            <div className="top-nav" style={{ position: 'absolute', top: '24px', left: '24px', right: '24px', zIndex: 10, justifyContent: 'flex-start' }}>
+            <div className="top-nav" style={{ position: 'absolute', top: '24px', left: '24px', right: '24px', zIndex: 10 }}>
                 <button className="back-btn" onClick={onBack} style={{ background: 'white', borderRadius: '50%', padding: '8px', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
                     <ArrowLeft size={24} color="var(--primary-text)" />
                 </button>
+                <div className="offline-banner">
+                    <ShieldCheck size={16} />
+                    <span>OFFLINE-READY</span>
+                </div>
             </div>
 
             <div className="result-hero" style={{ height: '320px', position: 'relative' }}>

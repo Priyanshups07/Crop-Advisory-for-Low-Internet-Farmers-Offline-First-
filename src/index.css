@@ -92,7 +92,7 @@ p.subtitle {
   justify-content: space-between;
   align-items: center;
   padding: 8px 0;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
   min-height: 48px;
 }
 
@@ -145,7 +145,8 @@ p.subtitle {
 .header-section {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 8px;
+  margin-bottom: 12px;
 }
 
 .back-btn {
