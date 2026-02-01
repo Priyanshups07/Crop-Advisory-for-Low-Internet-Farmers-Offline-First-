@@ -91,7 +91,9 @@ p.subtitle {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 8px;
+  padding: 8px 0;
+  margin-bottom: 16px;
+  min-height: 48px;
 }
 
 .offline-banner {
@@ -235,21 +237,24 @@ p.subtitle {
 
 .button-container {
   margin-top: auto;
-  padding-bottom: 24px;
+  padding: 40px 0 32px 0;
+  width: 100%;
 }
 
 .confirm-btn {
   width: 100%;
-  padding: 18px;
-  border-radius: 24px;
+  height: 72px;
+  border-radius: 20px;
   border: none;
-  font-size: 18px;
-  font-weight: 700;
+  font-size: 20px;
+  font-weight: 800;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
-  transition: all 0.2s ease;
+  gap: 16px;
+  transition: all var(--transition-speed) ease;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 .confirm-btn.primary {

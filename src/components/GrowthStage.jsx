@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ArrowLeft, CloudOff, CheckCircle2 } from 'lucide-react';
+import { ArrowLeft, CloudOff, CheckCircle2, ArrowRight } from 'lucide-react';
 
 import sproutImg from '../assets/sprout_stage.png';
 import growImg from '../assets/grow_stage.png';
@@ -73,7 +73,7 @@ const GrowthStage = ({ onBack, onConfirm }) => {
                     disabled={!selectedStage}
                     onClick={() => onConfirm(selectedStage)}
                 >
-                    Confirm Stage <CheckCircle2 size={20} />
+                    CONTINUE <ArrowRight size={24} />
                 </button>
             </div>
         </div>

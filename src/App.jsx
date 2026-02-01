@@ -160,11 +160,13 @@ const App = () => {
     }
     return (
       <div className="app-container">
-        <TopBanner />
-        <header>
+        <div className="top-nav" style={{ justifyContent: 'flex-end' }}>
+          <TopBanner />
+        </div>
+        <div className="header-section">
           <h1>Welcome</h1>
           <p className="subtitle">Tap the crops you grow</p>
-        </header>
+        </div>
         <div className="crop-grid">
           {crops.map((crop) => (
             <CropCard

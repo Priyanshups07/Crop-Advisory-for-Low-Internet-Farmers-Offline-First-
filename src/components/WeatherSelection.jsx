@@ -158,7 +158,7 @@ const WeatherSelection = ({ onBack, onConfirm }) => {
                     className="confirm-btn primary"
                     onClick={() => onConfirm(selectedWeather)}
                 >
-                    CONFIRM WEATHER <ArrowRight size={20} />
+                    CONTINUE <ArrowRight size={24} />
                 </button>
             </div>
         </div>

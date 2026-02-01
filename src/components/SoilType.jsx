@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ArrowLeft, CloudOff, CheckCircle2 } from 'lucide-react';
+import { ArrowLeft, CloudOff, CheckCircle2, ArrowRight } from 'lucide-react';
 
 import sandyImg from '../assets/sandy_soil.png';
 import loamImg from '../assets/loam_soil.png';
@@ -71,7 +71,7 @@ const SoilType = ({ onBack, onConfirm }) => {
                     disabled={!selectedSoil}
                     onClick={() => onConfirm(selectedSoil)}
                 >
-                    Confirm Soil Type <CheckCircle2 size={20} />
+                    CONTINUE <ArrowRight size={24} />
                 </button>
             </div>
         </div>

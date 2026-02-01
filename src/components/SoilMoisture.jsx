@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ArrowLeft, CloudOff, CheckCircle2 } from 'lucide-react';
+import { ArrowLeft, CloudOff, CheckCircle2, ArrowRight } from 'lucide-react';
 
 import dryImg from '../assets/sandy_soil.png';
 import slightImg from '../assets/loam_soil.png';
@@ -78,7 +78,7 @@ const SoilMoisture = ({ onBack, onConfirm }) => {
                     disabled={!selectedMoisture}
                     onClick={() => onConfirm(selectedMoisture)}
                 >
-                    CONFIRM MOISTURE LEVEL
+                    CONTINUE <ArrowRight size={24} />
                 </button>
             </div>
         </div>
