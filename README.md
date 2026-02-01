@@ -1,4 +1,4 @@
-# AgroTech: Crop Advisory for Low-Internet Farmers
+# KrishiSathi (Agriculture Companion)
 
 > **Offline-First. Multilingual. Accessible.**
 > *Empowering farmers with instant crop diagnosis and advisory, regardless of connectivity.*
@@ -6,7 +6,7 @@
 ---
 
 ## 📖 Introduction
-**AgroTech** is a Progressive Web Application (PWA) designed to bridge the digital divide in agriculture. Millions of farmers in remote areas struggle with limited internet access and language barriers, making it difficult to get timely advice for crop diseases.
+**KrishiSathi** is a Progressive Web Application (PWA) designed to bridge the digital divide in agriculture. Millions of farmers in remote areas struggle with limited internet access and language barriers, making it difficult to get timely advice for crop diseases.
 
 This application solves that problem by providing a **completely offline-capable**, **voice-assisted**, and **visually intuitive** diagnosis tool. It guides farmers through a simple 8-step process to identify crop issues and recommends immediate treatments—all without sending data to a server.
 

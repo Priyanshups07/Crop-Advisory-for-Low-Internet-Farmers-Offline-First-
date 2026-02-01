@@ -1,21 +1,21 @@
 :root {
-  --bg-color: #F0EFEB;
+  --bg-color: #F2F5F8;
   /* Cloud Dancer */
   --primary-text: #1a202c;
-  --secondary-text: #4a5568;
+  --secondary-text: #2d3748;
   --accent-green: #e2f9e1;
-  --accent-green-text: #2d5a27;
-  --card-bg: rgba(255, 255, 255, 0.9);
-  --card-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
-  --button-default: #e2e8f0;
+  --accent-green-text: #1c4532;
+  --card-bg: rgba(255, 255, 255, 0.95);
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --button-default: #edf2f7;
   --button-active: #1A3924;
   /* Dark Green */
   --button-hover: #0d1d12;
-  --button-text-default: #718096;
+  --button-text-default: #4a5568;
   --button-text-active: #ffffff;
-  --glass-bg: rgba(255, 255, 255, 0.7);
-  --glass-border: rgba(255, 255, 255, 0.18);
-  --transition-speed: 0.3s;
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --glass-border: rgba(255, 255, 255, 0.4);
+  --transition-speed: 0.2s;
 }
 
 * {
@@ -396,27 +396,27 @@ p.subtitle {
   cursor: pointer;
   padding: 16px;
   background: var(--card-bg);
-  border-radius: 32px;
+  border-radius: 24px;
   box-shadow: var(--card-shadow);
   transition: all var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
-  border: 1px solid var(--glass-border);
+  border: 1px solid rgba(226, 232, 240, 0.8);
   display: flex;
   flex-direction: column;
   gap: 12px;
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
 }
 
 .crop-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   border-color: var(--button-active);
 }
 
 .crop-card.selected {
   border-color: var(--button-active);
-  background-color: var(--glass-bg);
+  border-width: 2px;
+  background-color: white;
   transform: scale(0.98);
+  box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
 }
 
 .button-container {

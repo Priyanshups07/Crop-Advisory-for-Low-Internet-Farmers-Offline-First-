@@ -1,5 +1,6 @@
 import React from 'react';
-import { WifiOff, ArrowLeft, CloudOff } from 'lucide-react';
+import { WifiOff, ArrowLeft, CloudOff, Sprout } from 'lucide-react';
+import appLogo from '../assets/logo.svg';
 import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from './LanguageSwitcher';
 
@@ -15,7 +16,7 @@ const TopBanner = ({ onBack, showOffline = true }) => {
       padding: '8px 0',
       marginBottom: '24px'
     }}>
-      <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
         {onBack && (
           <button className="back-btn" onClick={onBack} style={{
             border: 'none',
@@ -32,6 +33,19 @@ const TopBanner = ({ onBack, showOffline = true }) => {
             <ArrowLeft size={24} />
           </button>
         )}
+
+        <div className="app-branding" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <img src={appLogo} alt="KrishiSathi Logo" style={{ width: '32px', height: '32px' }} />
+          <h1 style={{
+            fontSize: '20px',
+            fontWeight: '700',
+            color: 'var(--primary-text)',
+            margin: 0,
+            letterSpacing: '-0.5px'
+          }}>
+            Krishi<span style={{ color: 'var(--primary-color)' }}>Sathi</span>
+          </h1>
+        </div>
       </div>
 
       <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
