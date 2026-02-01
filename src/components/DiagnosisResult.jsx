@@ -1,12 +1,12 @@
-import React, { useState } from 'react';
-import { ArrowLeft, CheckCircle2, ShieldCheck, Volume2, Scissors, SprayCan as Spray, ArrowRight } from 'lucide-react';
+import React from 'react';
+import { CheckCircle2, Volume2, Scissors, SprayCan as Spray, CheckCircle } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import speak from '../utils/speech';
-import LanguageSwitcher from './LanguageSwitcher';
+import ConfirmButton from './ConfirmButton';
 
-const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
+const DiagnosisResult = ({ crop, onConfirm }) => {
   const { t, i18n } = useTranslation();
-  const [isSpeaking, setIsSpeaking] = useState(false);
+
 
   /*
     Since "diagnosis" in en.json is an object with keys: rice, wheat, default, etc.
@@ -59,23 +59,12 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
   };
 
   return (
-    <div className="app-container diagnosis-result-step" style={{ padding: 0 }}>
-      <div className="top-nav" style={{ position: 'absolute', top: '24px', left: '24px', right: '24px', zIndex: 10 }}>
-        <button className="back-btn" onClick={onBack} style={{ background: 'white', borderRadius: '50%', padding: '8px', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
-          <ArrowLeft size={24} color="var(--primary-text)" />
-        </button>
-        <div className="offline-banner" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <LanguageSwitcher />
-          <ShieldCheck size={16} />
-          <span>{t('offlineReady')}</span>
-        </div>
-      </div>
-
-      <div className="result-hero" style={{ height: '320px', position: 'relative' }}>
+    <div className="diagnosis-result-step">
+      <div className="result-hero" style={{ height: '320px', position: 'relative', marginTop: '-24px', marginLeft: '-24px', marginRight: '-24px' }}>
         <img src={data.image} alt={data.disease} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
       </div>
 
-      <div style={{ padding: '24px', position: 'relative', marginTop: '-40px', background: 'var(--bg-color)', borderTopLeftRadius: '40px', borderTopRightRadius: '40px' }}>
+      <div style={{ padding: '0', position: 'relative', marginTop: '-40px', background: 'var(--bg-color)', borderTopLeftRadius: '40px', borderTopRightRadius: '40px', zIndex: 1 }}>
         <div className="result-header-card" style={{ background: 'white', padding: '24px', borderRadius: '24px', boxShadow: 'var(--card-shadow)', display: 'flex', alignItems: 'center', justifyContent: 'space-between', border: '1px solid var(--glass-border)' }}>
           <div style={{ flex: 1 }}>
             <span style={{ fontSize: '12px', fontWeight: '800', color: '#00E676', letterSpacing: '1px', textTransform: 'uppercase' }}>{t('prompts.detected')}</span>
@@ -89,7 +78,7 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
         <div className="treatment-section" style={{ marginTop: '32px' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '16px' }}>
             <div style={{ background: 'var(--accent-green)', width: '28px', height: '28px', borderRadius: '8px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-              <CheckCircle2 size={16} color="var(--accent-green-text)" />
+              <CheckCircle size={16} color="var(--accent-green-text)" />
             </div>
             <h2 style={{ fontSize: '20px', fontWeight: '800', color: 'var(--primary-text)' }}>{t('prompts.treatment')}</h2>
           </div>
@@ -111,13 +100,15 @@ const DiagnosisResult = ({ crop, symptoms, onBack, onConfirm }) => {
           </div>
         </div>
 
-        <div className="button-container">
-          <button className="confirm-btn primary" onClick={onConfirm}>
-            {t('continue')} <ArrowRight size={24} />
-          </button>
-        </div>
+        <ConfirmButton
+          label={t('finish') || 'FINISH'}
+          icon={CheckCircle2}
+          onClick={onConfirm}
+        />
       </div>
     </div>
+
+
   );
 };
 

@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowRight } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
-const ConfirmButton = ({ disabled, onClick }) => {
+const ConfirmButton = ({ disabled, onClick, label, icon: Icon = ArrowRight }) => {
   const { t } = useTranslation();
   return (
     <div className="button-container">
@@ -11,11 +11,12 @@ const ConfirmButton = ({ disabled, onClick }) => {
         disabled={disabled}
         className="confirm-btn primary"
       >
-        <span>{t('continue')}</span>
-        <ArrowRight size={24} />
+        <span>{label || t('continue')}</span>
+        {Icon && <Icon size={24} />}
       </button>
     </div>
   );
 };
 
 export default ConfirmButton;
+

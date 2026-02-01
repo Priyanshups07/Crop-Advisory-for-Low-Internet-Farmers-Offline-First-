@@ -13,7 +13,7 @@ export async function playTextKey(key) {
       await audio.play();
       return;
     }
-  } catch (err) {
+  } catch {
     // ignore
   }
 

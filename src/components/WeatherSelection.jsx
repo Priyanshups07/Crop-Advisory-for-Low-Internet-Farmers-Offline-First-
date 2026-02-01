@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { ArrowLeft, ArrowRight, Sun, Wind, Snowflake, Leaf, CheckCircle2, CloudOff } from 'lucide-react';
+import { Sun, Wind, Snowflake, Leaf, CheckCircle2 } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import LanguageSwitcher from './LanguageSwitcher';
+import ConfirmButton from './ConfirmButton';
 
-const WeatherSelection = ({ onBack, onConfirm }) => {
+const WeatherSelection = ({ onConfirm }) => {
   const { t } = useTranslation();
   const [selectedWeather, setSelectedWeather] = useState('hot-humid');
 
@@ -15,18 +15,7 @@ const WeatherSelection = ({ onBack, onConfirm }) => {
   ];
 
   return (
-    <div className="app-container weather-step">
-      <div className="top-nav">
-        <button className="back-btn" onClick={onBack}>
-          <ArrowLeft size={24} />
-        </button>
-        <div className="offline-banner" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <LanguageSwitcher />
-          <CloudOff size={16} />
-          <span>{t('offlineReady')}</span>
-        </div>
-      </div>
-
+    <div className="weather-step">
       <header className="header-section">
         <h1>{t('steps.weather')}</h1>
         <p className="subtitle">{t('prompts.selectClimate')}</p>
@@ -76,13 +65,12 @@ const WeatherSelection = ({ onBack, onConfirm }) => {
         ))}
       </div>
 
-      <div className="button-container">
-        <button className="confirm-btn primary" onClick={() => onConfirm(selectedWeather)}>
-          {t('continue')} <ArrowRight size={24} />
-        </button>
-      </div>
+      <ConfirmButton
+        onClick={() => onConfirm(selectedWeather)}
+      />
     </div>
   );
 };
 
 export default WeatherSelection;
+

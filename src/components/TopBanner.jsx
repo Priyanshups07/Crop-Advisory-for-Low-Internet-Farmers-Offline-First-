@@ -1,39 +1,51 @@
 import React from 'react';
-import { WifiOff, Volume2 } from 'lucide-react';
+import { WifiOff, ArrowLeft, CloudOff } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import speak from '../utils/speech';
-import i18n from '../i18n';
 import LanguageSwitcher from './LanguageSwitcher';
 
-const TopBanner = () => {
+const TopBanner = ({ onBack, showOffline = true }) => {
   const { t } = useTranslation();
-  const play = (key) => speak(t(key), i18n.language);
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12 }}>
-      <div>
-        <h1 style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-          {t('welcome')}
-          <button aria-label="speak welcome" onClick={() => play('welcome')} style={{ background: 'none', border: 'none', cursor: 'pointer' }}>
-            <Volume2 size={16} />
+    <div className="top-nav" style={{
+      display: 'flex',
+      justifyContent: 'space-between',
+      alignItems: 'center',
+      width: '100%',
+      padding: '8px 0',
+      marginBottom: '24px'
+    }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+        {onBack && (
+          <button className="back-btn" onClick={onBack} style={{
+            border: 'none',
+            cursor: 'pointer',
+            padding: '8px',
+            borderRadius: '12px',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            background: 'white',
+            boxShadow: 'var(--card-shadow)',
+            color: 'var(--primary-text)'
+          }}>
+            <ArrowLeft size={24} />
           </button>
-        </h1>
-        <p style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-          {t('greeting')}
-          <button aria-label="speak greeting" onClick={() => play('greeting')} style={{ background: 'none', border: 'none', cursor: 'pointer' }}>
-            <Volume2 size={14} />
-          </button>
-        </p>
+        )}
       </div>
+
       <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
         <LanguageSwitcher />
-        <div className="offline-banner" style={{ width: 'fit-content' }}>
-          <WifiOff size={16} />
-          <span>{t('offlineReady')}</span>
-        </div>
+        {showOffline && (
+          <div className="offline-banner">
+            <CloudOff size={16} />
+            <span>{t('offlineReady')}</span>
+          </div>
+        )}
       </div>
     </div>
   );
 };
 
 export default TopBanner;
+

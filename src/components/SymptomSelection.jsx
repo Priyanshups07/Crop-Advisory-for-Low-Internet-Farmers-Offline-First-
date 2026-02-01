@@ -2,11 +2,6 @@ import React, { useState } from 'react';
 import { ArrowLeft, ArrowRight, Volume2, CheckCircle2, CloudOff, Info } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from './LanguageSwitcher';
-import riceBrownLesions from '../assets/rice_brown_lesions.svg';
-import riceYellowing from '../assets/rice_yellowing.svg';
-import riceGreySpots from '../assets/rice_grey_spots.svg';
-import riceSpindle from '../assets/rice_spindle.svg';
-import riceHealthy from '../assets/rice_healthy.svg';
 
 const SymptomSelection = ({ crop, onBack, onConfirm }) => {
     const { t } = useTranslation();
@@ -18,11 +13,11 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: t('symptomInfo.rice.subtitle'),
             helpText: t('symptomInfo.rice.helpText'),
             symptoms: [
-                { id: 'brown-lesions', name: t('symptoms.brownLesions'), image: riceBrownLesions },
-                { id: 'yellowing', name: t('symptoms.yellowing'), image: riceYellowing },
-                { id: 'grey-spots', name: t('symptoms.greySpots'), image: riceGreySpots },
-                { id: 'spindle', name: t('symptoms.spindle'), image: riceSpindle },
-                { id: 'healthy', name: t('symptoms.healthy'), image: riceHealthy, isHealthy: true },
+                { id: 'brown-lesions', name: t('symptoms.brownLesions'), image: '/images/rice.png' },
+                { id: 'yellowing', name: t('symptoms.yellowing'), image: '/images/rice.png' },
+                { id: 'grey-spots', name: t('symptoms.greySpots'), image: '/images/rice.png' },
+                { id: 'spindle', name: t('symptoms.spindle'), image: '/images/rice.png' },
+                { id: 'healthy', name: t('symptoms.healthy'), image: '/images/rice.png', isHealthy: true },
             ]
         },
         wheat: {
@@ -56,10 +51,10 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             subtitle: t('symptomInfo.maize.subtitle'),
             helpText: t('symptomInfo.maize.helpText'),
             symptoms: [
-                { id: 'brown-pustules', name: t('symptoms.brownPustules'), image: 'https://images.unsplash.com/photo-1551754655-cd27e38d2076?q=80&w=600&auto=format&fit=crop' },
-                { id: 'white-growth', name: t('symptoms.whiteGrowth'), image: 'https://images.unsplash.com/photo-1543362906-acfc16c623a2?q=80&w=600&auto=format&fit=crop' },
-                { id: 'gray-lesions', name: t('symptoms.grayLesions'), image: 'https://images.unsplash.com/photo-1590634158913-90d5757d23d8?q=80&w=600&auto=format&fit=crop' },
-                { id: 'healthy', name: t('symptoms.healthy'), image: 'https://images.unsplash.com/photo-1528650047-92a0618037a1?q=80&w=600&auto=format&fit=crop', isHealthy: true },
+                { id: 'brown-pustules', name: t('symptoms.brownPustules'), image: '/images/maize/brown_pustules.jpg' },
+                { id: 'white-growth', name: t('symptoms.whiteGrowth'), image: '/images/maize/white_growth.jpg' },
+                { id: 'gray-lesions', name: t('symptoms.gray_lesions.png') },
+                { id: 'healthy', name: t('symptoms.healthy'), image: '/images/maize/healthy.jpg', isHealthy: true },
             ]
         }
     };
@@ -71,7 +66,6 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
             if (prev.includes(id)) {
                 return prev.filter(item => item !== id);
             } else {
-                // If selecting healthy, deselect others. If selecting disease, deselect healthy.
                 if (id === 'healthy') return ['healthy'];
                 return [...prev.filter(item => item !== 'healthy'), id];
             }
