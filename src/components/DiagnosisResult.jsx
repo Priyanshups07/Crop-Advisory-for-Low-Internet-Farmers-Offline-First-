@@ -4,6 +4,12 @@ import { useTranslation } from 'react-i18next';
 import speak from '../utils/speech';
 import ConfirmButton from './ConfirmButton';
 
+import diseaseRice from '../assets/diagnosis/disease_rice.svg';
+import diseaseWheat from '../assets/diagnosis/disease_wheat.svg';
+import diseaseDefault from '../assets/diagnosis/disease_default.svg';
+import treatmentSpray from '../assets/treatment/treatment_spray.svg';
+import treatmentPrune from '../assets/treatment/treatment_prune.svg';
+
 const DiagnosisResult = ({ crop, onConfirm }) => {
   const { t, i18n } = useTranslation();
 
@@ -26,21 +32,21 @@ const DiagnosisResult = ({ crop, onConfirm }) => {
 
     return {
       disease: t(`${key}.disease`),
-      image: isKnown && cropKey === 'rice' ? 'https://images.unsplash.com/photo-1536633310197-080f5d729863?q=80&w=800&auto=format&fit=crop' :
-        isKnown && cropKey === 'wheat' ? 'https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?q=80&w=800&auto=format&fit=crop' :
-          'https://images.unsplash.com/photo-1625246333195-78d9c38ad449?q=80&w=800&auto=format&fit=crop',
+      image: isKnown && cropKey === 'rice' ? diseaseRice :
+        isKnown && cropKey === 'wheat' ? diseaseWheat :
+          diseaseDefault,
       treatment: t(`${key}.treatment`),
       frequency: t(`${key}.frequency`),
       // Construct steps manually or fetch object if using i18next backend that supports it
       steps: [
         {
           id: 1, name: t(`${key}.steps.spray`) || t(`${key}.steps.dust`) || t(`${key}.steps.mix`),
-          image: 'https://images.unsplash.com/photo-1592982537447-7440770cbfc9?q=80&w=400&auto=format&fit=crop',
+          image: treatmentSpray,
           icon: <Spray size={16} />
         },
         {
           id: 2, name: t(`${key}.steps.prune`) || t(`${key}.steps.remove`) || t(`${key}.steps.water`),
-          image: 'https://images.unsplash.com/photo-1558449028-b53a39d100fc?q=80&w=400&auto=format&fit=crop',
+          image: treatmentPrune,
           icon: <Scissors size={16} />
         }
       ]

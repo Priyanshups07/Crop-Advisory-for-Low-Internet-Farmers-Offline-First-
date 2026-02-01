@@ -2,8 +2,11 @@ import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import ConfirmButton from './ConfirmButton';
 
+
 import sandyImg from '../assets/sandy_soil.png';
 import loamImg from '../assets/loam_soil.png';
+import clayImg from '../assets/soils/clay_soil.svg';
+import redImg from '../assets/soils/red_soil.svg';
 
 const SoilType = ({ onConfirm }) => {
   const { t } = useTranslation();
@@ -12,8 +15,8 @@ const SoilType = ({ onConfirm }) => {
   const soils = [
     { id: 'sandy', name: t('soils.sandy'), image: sandyImg },
     { id: 'loam', name: t('soils.loam'), image: loamImg },
-    { id: 'clay', name: t('soils.clay'), image: 'https://images.unsplash.com/photo-1512132411229-c30391241dd8?q=80&w=600&auto=format&fit=crop' },
-    { id: 'red', name: t('soils.red'), image: 'https://images.unsplash.com/photo-1589923188900-85dae523342b?q=80&w=600&auto=format&fit=crop' },
+    { id: 'clay', name: t('soils.clay'), image: clayImg },
+    { id: 'red', name: t('soils.red'), image: redImg },
   ];
 
   return (
