@@ -1,0 +1,3644 @@
+[
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Grand Growth",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Smut",
+    "symptoms": "Black whip-like structures"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Red Rot",
+    "symptoms": "Red discoloration, Drying stalks"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Maturity",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Wilt",
+    "symptoms": "Yellowing leaves, Drying canes"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Tillering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Sugarcane",
+    "growth_stage": "Planting",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  }
+]

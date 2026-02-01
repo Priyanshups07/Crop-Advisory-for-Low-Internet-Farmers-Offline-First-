@@ -1,0 +1,3914 @@
+[
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Leaf Blight",
+    "symptoms": "Irregular brown patches"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Sowing",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Harvest",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Healthy",
+    "symptoms": "No visible symptoms"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Vegetative",
+    "detected_disease": "Powdery Mildew",
+    "symptoms": "White powder spots, Stunted growth"
+  },
+  {
+    "crop": "Wheat",
+    "growth_stage": "Flowering",
+    "detected_disease": "Rust",
+    "symptoms": "Reddish brown pustules, Powdery coating"
+  }
+]

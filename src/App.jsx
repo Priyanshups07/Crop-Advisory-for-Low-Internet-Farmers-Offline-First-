@@ -1,17 +1,38 @@
-import React, { useState } from 'react';
-import TopBanner from './components/TopBanner';
-import CropCard from './components/CropCard';
-import ConfirmButton from './components/ConfirmButton';
-import GrowthStage from './components/GrowthStage';
-import SoilType from './components/SoilType';
-import SoilMoisture from './components/SoilMoisture';
-import WeatherSelection from './components/WeatherSelection';
-import SymptomSelection from './components/SymptomSelection';
-import DiagnosisResult from './components/DiagnosisResult';
-import ActionDetails from './components/ActionDetails';
-
+import React, { useState, useEffect } from "react";
+import { db } from "./db";
+import axios from "axios";
+import TopBanner from "./components/TopBanner";
+import CropCard from "./components/CropCard";
+import ConfirmButton from "./components/ConfirmButton";
+import GrowthStage from "./components/GrowthStage";
+import SoilType from "./components/SoilType";
+import SoilMoisture from "./components/SoilMoisture";
+import WeatherSelection from "./components/WeatherSelection";
+import SymptomSelection from "./components/SymptomSelection";
+import DiagnosisResult from "./components/DiagnosisResult";
+import ActionDetails from "./components/ActionDetails";
 
 const App = () => {
+  // Sync function: upload unsynced reports to backend
+  const syncReports = async () => {
+    if (!navigator.onLine) return;
+    const unsynced = await db.reports.where("synced").notEqual(1).toArray();
+    if (unsynced.length) {
+      try {
+        await axios.post("http://localhost:5000/sync", unsynced);
+        await db.reports.where("synced").notEqual(1).modify({ synced: 1 });
+      } catch (e) {
+        /* ignore offline errors */
+      }
+    }
+  };
+
+  useEffect(() => {
+    window.addEventListener("online", syncReports);
+    syncReports();
+    return () => window.removeEventListener("online", syncReports);
+  }, []);
+
   const [currentStep, setCurrentStep] = useState(1);
   const [selectedCrops, setSelectedCrops] = useState([]);
   const [selectedStage, setSelectedStage] = useState(null);
@@ -21,16 +42,29 @@ const App = () => {
   const [selectedSymptoms, setSelectedSymptoms] = useState([]);
 
   const crops = [
-    { id: 'rice', name: 'Rice', image: '/images/rice.png' },
-    { id: 'wheat', name: 'Wheat', image: 'https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?q=80&w=600&auto=format&fit=crop' },
-    { id: 'sugarcane', name: 'Sugarcane', image: 'https://images.unsplash.com/photo-1650192388648-65800ec59fee?q=80&w=600&auto=format&fit=crop' },
-    { id: 'maize', name: 'Maize', image: 'https://images.unsplash.com/photo-1551754655-cd27e38d2076?q=80&w=600&auto=format&fit=crop' },
+    { id: "rice", name: "Rice", image: "/images/rice.png" },
+    {
+      id: "wheat",
+      name: "Wheat",
+      image:
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?q=80&w=600&auto=format&fit=crop",
+    },
+    {
+      id: "sugarcane",
+      name: "Sugarcane",
+      image:
+        "https://images.unsplash.com/photo-1650192388648-65800ec59fee?q=80&w=600&auto=format&fit=crop",
+    },
+    {
+      id: "maize",
+      name: "Maize",
+      image:
+        "https://images.unsplash.com/photo-1551754655-cd27e38d2076?q=80&w=600&auto=format&fit=crop",
+    },
   ];
 
   const toggleCrop = (id) => {
-    setSelectedCrops((prev) =>
-      prev.includes(id) ? [] : [id]
-    );
+    setSelectedCrops((prev) => (prev.includes(id) ? [] : [id]));
   };
 
   const handleCropConfirm = () => {
@@ -62,8 +96,17 @@ const App = () => {
     setCurrentStep(7);
   };
 
-  const handleDiagnosisConfirm = () => {
-    setCurrentStep(8);
+  const handleDiagnosisConfirm = async () => {
+    // Save advisory to IndexedDB for offline sync
+    await db.reports.add({
+      crop: selectedCrops[0],
+      stage: selectedStage,
+      soil: selectedSoil,
+      symptoms: selectedSymptoms,
+      synced: 0,
+    });
+    syncReports();
+    handleDone();
   };
 
   const handleDone = () => {
@@ -82,20 +125,32 @@ const App = () => {
   };
 
   const renderContent = () => {
-    if (currentStep === 8) {
-      return <ActionDetails onBack={handleBack} onDone={handleDone} />;
-    }
     if (currentStep === 7) {
-      return <DiagnosisResult crop={selectedCrops[0]} symptoms={selectedSymptoms} onBack={handleBack} onConfirm={handleDiagnosisConfirm} />;
+      return (
+        <DiagnosisResult
+          crop={selectedCrops[0]}
+          symptoms={selectedSymptoms}
+          onBack={handleBack}
+          onConfirm={handleDiagnosisConfirm}
+        />
+      );
     }
     if (currentStep === 6) {
-      return <SymptomSelection crop={selectedCrops[0]} onBack={handleBack} onConfirm={handleSymptomConfirm} />;
+      return (
+        <SymptomSelection
+          crop={selectedCrops[0]}
+          onBack={handleBack}
+          onConfirm={handleSymptomConfirm}
+        />
+      );
     }
     if (currentStep === 5) {
       return <WeatherSelection onConfirm={handleWeatherConfirm} />;
     }
     if (currentStep === 4) {
-      return <SoilMoisture onBack={handleBack} onConfirm={handleMoistureConfirm} />;
+      return (
+        <SoilMoisture onBack={handleBack} onConfirm={handleMoistureConfirm} />
+      );
     }
     if (currentStep === 3) {
       return <SoilType onBack={handleBack} onConfirm={handleSoilConfirm} />;
@@ -131,9 +186,7 @@ const App = () => {
 
   return (
     <>
-      <div className="main-content">
-        {renderContent()}
-      </div>
+      <div className="main-content">{renderContent()}</div>
     </>
   );
 };
