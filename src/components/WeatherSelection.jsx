@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { ArrowRight, Sun, Wind, Snowflake, Leaf, CheckCircle2 } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Sun, Wind, Snowflake, Leaf, CheckCircle2, CloudOff } from 'lucide-react';
 
-const WeatherSelection = ({ onConfirm }) => {
+const WeatherSelection = ({ onBack, onConfirm }) => {
     const [selectedWeather, setSelectedWeather] = useState('hot-humid');
 
     const weatherOptions = [
@@ -41,13 +41,23 @@ const WeatherSelection = ({ onConfirm }) => {
 
     return (
         <div className="app-container weather-step">
+            <div className="top-nav">
+                <button className="back-btn" onClick={onBack}>
+                    <ArrowLeft size={24} />
+                </button>
+                <div className="offline-banner">
+                    <CloudOff size={16} />
+                    <span>OFFLINE-READY</span>
+                </div>
+            </div>
+
             <header className="header-section">
-                <h1 style={{ fontSize: '28px', marginBottom: '8px' }}>Select Your Weather</h1>
-                <p className="subtitle">Tap your region on the map or list below</p>
+                <h1>Weather Zone</h1>
+                <p className="subtitle">Select your regional climate</p>
             </header>
 
             {/* Stylized India Map Area */}
-            <div className="map-container">
+            <div className="map-container" style={{ borderRadius: '32px', boxShadow: 'var(--card-shadow)', border: '1px solid var(--glass-border)', background: 'white' }}>
                 <svg viewBox="0 0 400 450" className="india-map">
                     {/* Simplified India Map Paths (Stylized Zones) */}
                     {/* North/Blue Zone */}
@@ -85,15 +95,10 @@ const WeatherSelection = ({ onConfirm }) => {
                         fill="none" stroke="#e2e8f0" strokeWidth="2"
                     />
                 </svg>
-                <div className="map-legend">
-                    <div className="legend-item"><span className="dot" style={{ background: '#FFD700' }}></span> HOT & DRY</div>
-                    <div className="legend-item"><span className="dot" style={{ background: '#E53935' }}></span> HOT & HUMID</div>
-                    <div className="legend-item"><span className="dot" style={{ background: '#1E88E5' }}></span> COLD</div>
-                </div>
             </div>
 
             {/* Selection List */}
-            <div className="weather-list" style={{ marginTop: '24px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
+            <div className="weather-list" style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
                 {weatherOptions.map((opt) => (
                     <div
                         key={opt.id}
@@ -101,14 +106,14 @@ const WeatherSelection = ({ onConfirm }) => {
                         onClick={() => setSelectedWeather(opt.id)}
                         style={{
                             padding: '16px',
-                            borderRadius: '20px',
-                            background: 'white',
+                            borderRadius: '24px',
+                            background: selectedWeather === opt.id ? 'var(--glass-bg)' : 'white',
                             display: 'flex',
                             alignItems: 'center',
                             justifyContent: 'space-between',
-                            border: selectedWeather === opt.id ? '2px solid #2d5a27' : '1px solid #edf2f7',
-                            boxShadow: '0 4px 6px -1px rgba(0,0,0,0.05)',
-                            backgroundColor: selectedWeather === opt.id ? '#f0fdf4' : 'white'
+                            border: selectedWeather === opt.id ? '2px solid var(--button-active)' : '1px solid var(--glass-border)',
+                            boxShadow: 'var(--card-shadow)',
+                            transition: 'all var(--transition-speed) ease'
                         }}
                     >
                         <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
@@ -117,7 +122,7 @@ const WeatherSelection = ({ onConfirm }) => {
                                 style={{
                                     background: opt.bgColor,
                                     padding: '12px',
-                                    borderRadius: '12px',
+                                    borderRadius: '16px',
                                     display: 'flex',
                                     alignItems: 'center',
                                     justifyContent: 'center'
@@ -126,8 +131,8 @@ const WeatherSelection = ({ onConfirm }) => {
                                 {opt.icon}
                             </div>
                             <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                <span style={{ fontSize: '18px', fontWeight: '800', color: '#1a202c' }}>{opt.name}</span>
-                                <span style={{ fontSize: '14px', color: '#718096', fontWeight: '600' }}>{opt.zone}</span>
+                                <span style={{ fontSize: '18px', fontWeight: '800', color: 'var(--primary-text)' }}>{opt.name}</span>
+                                <span style={{ fontSize: '13px', color: 'var(--secondary-text)', fontWeight: '600' }}>{opt.zone}</span>
                             </div>
                         </div>
                         <div
@@ -135,11 +140,11 @@ const WeatherSelection = ({ onConfirm }) => {
                                 width: '24px',
                                 height: '24px',
                                 borderRadius: '50%',
-                                border: selectedWeather === opt.id ? 'none' : '2px solid #e2e8f0',
+                                border: selectedWeather === opt.id ? 'none' : '2px solid var(--button-default)',
                                 display: 'flex',
                                 alignItems: 'center',
                                 justifyContent: 'center',
-                                background: selectedWeather === opt.id ? '#2d5a27' : 'transparent'
+                                background: selectedWeather === opt.id ? 'var(--button-active)' : 'transparent'
                             }}
                         >
                             {selectedWeather === opt.id && <CheckCircle2 size={16} color="white" />}
@@ -148,12 +153,12 @@ const WeatherSelection = ({ onConfirm }) => {
                 ))}
             </div>
 
-            <div className="button-container" style={{ marginTop: '24px' }}>
+            <div className="button-container">
                 <button
                     className="confirm-btn primary"
                     onClick={() => onConfirm(selectedWeather)}
                 >
-                    CONFIRM WEATHER <ArrowRight size={20} style={{ marginLeft: '8px' }} />
+                    CONFIRM WEATHER <ArrowRight size={20} />
                 </button>
             </div>
         </div>

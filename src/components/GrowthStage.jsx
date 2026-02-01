@@ -36,6 +36,9 @@ const GrowthStage = ({ onBack, onConfirm }) => {
         <div className="app-container">
             {/* Top Navigation */}
             <div className="top-nav">
+                <button className="back-btn" onClick={onBack}>
+                    <ArrowLeft size={24} />
+                </button>
                 <div className="offline-banner">
                     <CloudOff size={16} />
                     <span>OFFLINE-READY</span>
@@ -43,9 +46,6 @@ const GrowthStage = ({ onBack, onConfirm }) => {
             </div>
 
             <div className="header-section">
-                <button className="back-btn" onClick={onBack}>
-                    <ArrowLeft size={24} />
-                </button>
                 <h1>Growth Stage</h1>
                 <p className="subtitle">Tap your crop's current stage</p>
             </div>
@@ -59,13 +59,9 @@ const GrowthStage = ({ onBack, onConfirm }) => {
                     >
                         <div className="image-wrapper">
                             <img src={stage.image} alt={stage.name} />
-                            <div className="selection-indicator">
-                                <CheckCircle2 size={20} className="check-icon" />
-                            </div>
                         </div>
                         <div className="card-info">
                             <span className="name">{stage.name}</span>
-                            <CheckCircle2 size={18} className="status-icon" />
                         </div>
                     </div>
                 ))}

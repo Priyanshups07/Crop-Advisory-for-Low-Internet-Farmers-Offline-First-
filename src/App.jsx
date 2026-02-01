@@ -145,7 +145,7 @@ const App = () => {
       );
     }
     if (currentStep === 5) {
-      return <WeatherSelection onConfirm={handleWeatherConfirm} />;
+      return <WeatherSelection onBack={handleBack} onConfirm={handleWeatherConfirm} />;
     }
     if (currentStep === 4) {
       return (

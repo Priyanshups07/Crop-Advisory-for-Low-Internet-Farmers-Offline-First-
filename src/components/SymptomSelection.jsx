@@ -76,76 +76,59 @@ const SymptomSelection = ({ crop, onBack, onConfirm }) => {
                 <button className="back-btn" onClick={onBack}>
                     <ArrowLeft size={24} />
                 </button>
-                <span className="page-title">{currentData.title}</span>
                 <div className="offline-banner">
                     <CloudOff size={16} />
-                    <span>OFFLINE</span>
+                    <span>OFFLINE-READY</span>
                 </div>
             </div>
 
-            <div className="header-section" style={{ marginTop: '20px' }}>
-                <h1 style={{ fontSize: '32px', lineHeight: '1.2' }}>{currentData.subtitle}</h1>
-                <p className="subtitle">{currentData.helpText}</p>
+            <div className="header-section">
+                <h1>{currentData.title}</h1>
+                <p className="subtitle">{currentData.subtitle}</p>
             </div>
 
-            <div className="crop-grid" style={{ marginTop: '24px' }}>
+            <div className="crop-grid">
                 {currentData.symptoms.map((symptom) => (
                     <div
                         key={symptom.id}
                         className={`crop-card ${selectedSymptoms.includes(symptom.id) ? 'selected' : ''}`}
                         onClick={() => toggleSymptom(symptom.id)}
-                        style={{
-                            position: 'relative',
-                            border: selectedSymptoms.includes(symptom.id) ? '3px solid #00E676' : '3px solid transparent'
-                        }}
                     >
                         <div className="image-wrapper">
                             <img src={symptom.image} alt={symptom.name} />
-                            {crop.toLowerCase() === 'rice' && (
-                                <button className="audio-btn" onClick={(e) => { e.stopPropagation(); /* play audio */ }}>
-                                    <Volume2 size={18} color="white" />
-                                </button>
-                            )}
-                            <div className="selection-indicator" style={{
-                                display: 'flex',
-                                backgroundColor: selectedSymptoms.includes(symptom.id) ? '#00E676' : 'rgba(255,255,255,0.2)',
-                                border: '1px solid rgba(255,255,255,0.4)'
-                            }}>
-                                <CheckCircle2 size={18} color={selectedSymptoms.includes(symptom.id) ? "white" : "rgba(255,255,255,0.5)"} />
-                            </div>
                         </div>
                         <div className="card-info">
-                            <span className="name" style={{ fontSize: '18px' }}>{symptom.name}</span>
+                            <span className="name">{symptom.name}</span>
                         </div>
                     </div>
                 ))}
             </div>
 
             {selectedSymptoms.length > 0 && (
-                <div className="selected-summary" style={{ marginTop: '24px', padding: '16px', backgroundColor: 'var(--bg-color)', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '24px', boxShadow: '0 4px 6px -1px rgba(0,0,0,0.05)' }}>
-                    <h3 style={{ fontSize: '14px', fontWeight: '800', color: '#718096', letterSpacing: '1px', marginBottom: '12px' }}>SELECTED SYMPTOMS</h3>
+                <div className="selected-summary" style={{ marginTop: '16px', padding: '20px', backgroundColor: 'var(--glass-bg)', border: '1px solid var(--glass-border)', borderRadius: '24px', backdropFilter: 'blur(8px)' }}>
+                    <h3 style={{ fontSize: '11px', fontWeight: '800', color: 'var(--secondary-text)', letterSpacing: '1px', marginBottom: '12px', textTransform: 'uppercase' }}>Selected Symptoms</h3>
                     {selectedSymptoms.map(id => {
                         const sym = currentData.symptoms.find(s => s.id === id);
                         return (
                             <div key={id} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '8px' }}>
                                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                                    <Info size={16} color="#ed8936" />
-                                    <span style={{ fontWeight: '600' }}>{sym?.name}</span>
+                                    <div style={{ background: 'var(--button-active)', width: '6px', height: '6px', borderRadius: '50%' }} />
+                                    <span style={{ fontWeight: '700', fontSize: '14px', color: 'var(--primary-text)' }}>{sym?.name}</span>
                                 </div>
-                                <CheckCircle2 size={18} color="#00E676" />
+                                <CheckCircle2 size={16} color="var(--accent-green-text)" />
                             </div>
                         );
                     })}
                 </div>
             )}
 
-            <div className="button-container" style={{ marginTop: 'auto', padding: '24px 0' }}>
+            <div className="button-container">
                 <button
                     className="confirm-btn primary"
                     disabled={selectedSymptoms.length === 0}
                     onClick={() => onConfirm(selectedSymptoms)}
                 >
-                    {crop.toLowerCase() === 'wheat' ? 'Next' : 'Confirm Selection'} {crop.toLowerCase() === 'wheat' && <ArrowRight size={20} />}
+                    CONTINUE <ArrowRight size={20} />
                 </button>
             </div>
         </div>
