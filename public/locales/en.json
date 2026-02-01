@@ -1,0 +1,133 @@
+{
+  "welcome": "Welcome",
+  "greeting": "Hello!",
+  "offlineReady": "OFFLINE-READY",
+  "continue": "Continue",
+  "language": "Language",
+  "steps": {
+    "symptom": "Symptom Selection",
+    "weather": "Weather Selection",
+    "soil": "Soil Type",
+    "moisture": "Soil Moisture",
+    "growth": "Growth Stage"
+  },
+  "prompts": {
+    "tapCrops": "Tap the crops you grow",
+    "selectClimate": "Select your regional climate",
+    "selectSoil": "Select your land's soil",
+    "howWet": "How wet is the field today?",
+    "tapStage": "Tap your crop's current stage",
+    "whatSee": "What do you see?",
+    "tapSymptoms": "Tap all the symptoms that apply to your crop",
+    "selectSymptoms": "Select the symptoms you see",
+    "tapAudio": "Tap the speaker for audio help",
+    "detected": "Detected Result",
+    "treatment": "Treatment Advice",
+    "selectedSymptoms": "Selected Symptoms"
+  },
+  "crops": {
+    "rice": "Rice",
+    "wheat": "Wheat",
+    "sugarcane": "Sugarcane",
+    "maize": "Maize"
+  },
+  "stages": {
+    "sprout": "Sprout",
+    "grow": "Grow",
+    "flower": "Flower",
+    "mature": "Mature"
+  },
+  "soils": {
+    "sandy": "Sandy",
+    "loam": "Loam",
+    "clay": "Clay",
+    "red": "Red"
+  },
+  "weather": {
+    "hotDry": "Hot & Dry",
+    "hotHumid": "Hot & Humid",
+    "cold": "Cold",
+    "moderate": "Moderate",
+    "zones": {
+      "yellow": "Yellow Zone",
+      "red": "Red Zone",
+      "blue": "Blue Zone",
+      "green": "Green Zone"
+    }
+  },
+  "moisture": {
+    "dry": "Dry Soil",
+    "slight": "Slightly Moist",
+    "optimal": "Optimal",
+    "wet": "Wet Soil"
+  },
+  "diagnosis": {
+    "rice": {
+      "disease": "Rice Blast",
+      "treatment": "Apply Organic Neem Spray",
+      "frequency": "Spray twice a day until clear",
+      "steps": {
+        "spray": "SPRAY EVENLY",
+        "prune": "PRUNE LEAVES"
+      }
+    },
+    "wheat": {
+      "disease": "Powdery Mildew",
+      "treatment": "Sulfur Dusting",
+      "frequency": "Apply weekly in dry conditions",
+      "steps": {
+        "dust": "DUST EVENLY",
+        "remove": "REMOVE DEBRIS"
+      }
+    },
+    "default": {
+      "disease": "General Nutrient Deficiency",
+      "treatment": "Balanced Organic Fertilizer",
+      "frequency": "Apply once immediately",
+      "steps": {
+        "mix": "MIX PROPERLY",
+        "water": "WATER WELL"
+      }
+    }
+  },
+  "symptomInfo": {
+    "rice": {
+      "title": "Rice Symptom Selection",
+      "subtitle": "Select the symptoms you see",
+      "helpText": "Tap the speaker for audio help"
+    },
+    "wheat": {
+      "title": "Wheat Diagnosis",
+      "subtitle": "What do you see?",
+      "helpText": "Select all symptoms visible on the plant."
+    },
+    "sugarcane": {
+      "title": "What do you see?",
+      "subtitle": "Tap all the symptoms that apply to your crop",
+      "helpText": ""
+    },
+    "maize": {
+      "title": "Maize Symptoms",
+      "subtitle": "What do you see on your corn?",
+      "helpText": "Select all that apply to your crop."
+    }
+  },
+  "symptoms": {
+    "brownLesions": "Brown Lesions",
+    "yellowing": "Yellowing Leaves",
+    "greySpots": "Grey Spots",
+    "spindle": "Spindle Shape",
+    "healthy": "No Visible Symptoms",
+    "brownPustules": "Reddish brown pustules",
+    "powdery": "Powdery coating",
+    "brownPatches": "Irregular brown patches",
+    "whitePowder": "White powder spots",
+    "stunted": "Stunted growth",
+    "dryingCanes": "Drying canes",
+    "redStreaks": "Red streaks",
+    "dryingStalks": "Drying stalks",
+    "blackSmut": "Black smut",
+    "whiteGrowth": "White growth",
+    "grayLesions": "Gray lesions"
+  }
+}

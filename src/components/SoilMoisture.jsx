@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import { ArrowLeft, CloudOff, CheckCircle2, ArrowRight } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
+import playTextKey from '../utils/tts';
+import LanguageSwitcher from './LanguageSwitcher';
 
 import dryImg from '../assets/sandy_soil.png';
 import slightImg from '../assets/loam_soil.png';
@@ -7,51 +10,54 @@ import optimalImg from '../assets/optimal_soil_v2.png';
 import wetImg from '../assets/wet_soil_v2.png';
 
 const SoilMoisture = ({ onBack, onConfirm }) => {
+    const { t } = useTranslation();
     const [selectedMoisture, setSelectedMoisture] = useState(null);
 
     const moistureLevels = [
         {
             id: 'dry',
-            name: 'Dry Soil',
+            name: t('moisture.dry'),
             range: '0% - 25%',
             image: dryImg
         },
         {
             id: 'slight',
-            name: 'Slightly Moist',
+            name: t('moisture.slight'),
             range: '26% - 50%',
             image: slightImg
         },
         {
             id: 'optimal',
-            name: 'Optimal',
+            name: t('moisture.optimal'),
             range: '51% - 75%',
             image: optimalImg
         },
         {
             id: 'wet',
-            name: 'Wet Soil',
+            name: t('moisture.wet'),
             range: '76% - 100%',
             image: wetImg
         },
     ];
 
     return (
+
         <div className="app-container">
             {/* Top Navigation */}
             <div className="top-nav">
                 <button className="back-btn" onClick={onBack}>
                     <ArrowLeft size={24} />
                 </button>
-                <div className="offline-banner">
+                <div className="offline-banner" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                    <LanguageSwitcher />
                     <CloudOff size={16} />
-                    <span>OFFLINE-READY</span>
+                    <span>{t('offlineReady')}</span>
                 </div>
             </div>
 
             <div className="header-section">
-                <h1>Soil Moisture</h1>
-                <p className="subtitle">How wet is the field today?</p>
+                <h1>{t('steps.moisture')}</h1>
+                <p className="subtitle">{t('prompts.howWet')}</p>
             </div>
 
             <div className="crop-grid">

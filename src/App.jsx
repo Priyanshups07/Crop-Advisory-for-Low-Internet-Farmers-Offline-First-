@@ -11,8 +11,11 @@ import WeatherSelection from "./components/WeatherSelection";
 import SymptomSelection from "./components/SymptomSelection";
 import DiagnosisResult from "./components/DiagnosisResult";
 import ActionDetails from "./components/ActionDetails";
+import { useTranslation } from 'react-i18next';
+import './i18n';
 
 const App = () => {
+  const { t } = useTranslation();
   // Sync function: upload unsynced reports to backend
   const syncReports = async () => {
     if (!navigator.onLine) return;
@@ -42,22 +45,22 @@ const App = () => {
   const [selectedSymptoms, setSelectedSymptoms] = useState([]);
 
   const crops = [
-    { id: "rice", name: "Rice", image: "/images/rice.png" },
+    { id: "rice", name: t('crops.rice'), image: "/images/rice.png" },
     {
       id: "wheat",
-      name: "Wheat",
+      name: t('crops.wheat'),
       image:
         "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?q=80&w=600&auto=format&fit=crop",
     },
     {
       id: "sugarcane",
-      name: "Sugarcane",
+      name: t('crops.sugarcane'),
       image:
         "https://images.unsplash.com/photo-1650192388648-65800ec59fee?q=80&w=600&auto=format&fit=crop",
     },
     {
       id: "maize",
-      name: "Maize",
+      name: t('crops.maize'),
       image:
         "https://images.unsplash.com/photo-1551754655-cd27e38d2076?q=80&w=600&auto=format&fit=crop",
     },
@@ -164,8 +167,8 @@ const App = () => {
           <TopBanner />
         </div>
         <div className="header-section">
-          <h1>Welcome</h1>
-          <p className="subtitle">Tap the crops you grow</p>
+          <h1>{t('welcome')}</h1>
+          <p className="subtitle">{t('tapCropsYouGrow')}</p>
         </div>
         <div className="crop-grid">
           {crops.map((crop) => (
